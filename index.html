@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b0c0b" />
+    <title>The Last Question — An Illustrated Reading</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=2" />
+  </head>
+  <body>
+    <main class="experience">
+      <canvas id="world" aria-hidden="true"></canvas>
+
+      <header class="masthead">
+        <a class="wordmark" href="#" aria-label="Return to the beginning"><span>THE LAST</span><span>QUESTION</span></a>
+        <div class="coordinates"><span id="eraNumber">00</span> / 07<br /><span id="viewMode">ORBITAL MEMORY</span></div>
+      </header>
+
+      <section class="chapter" aria-live="polite">
+        <p class="chapter__eyebrow" id="chapterEyebrow">TEN TRILLION YEARS · ONE QUESTION</p>
+        <h1 id="chapterTitle">THE STORY<br />REMEMBERS</h1>
+        <p id="chapterCopy">A human question begins its journey through every scale of existence.</p>
+      </section>
+
+      <section class="story-window" aria-live="polite" aria-label="Current passage">
+        <p id="storyLine"></p>
+        <div class="story-window__meta"><span id="wordCounter">0000 / ----</span><span id="timeCounter">00:00 / --:--</span></div>
+      </section>
+
+      <button class="reader-toggle" id="readerOpen" type="button">READ THE COMPLETE TEXT ↗</button>
+
+      <nav class="transport" aria-label="Story playback">
+        <button id="playToggle" class="transport__play" type="button" aria-label="Pause">Ⅱ</button>
+        <button id="narrationToggle" class="transport__voice" type="button" aria-label="Start narration">VOICE OFF</button>
+        <select id="voiceSelect" class="transport__select" aria-label="Narrator voice"><option value="">NATURAL MALE (AUTO)</option></select>
+        <select id="rateSelect" class="transport__select transport__rate" aria-label="Narration speed">
+          <option value="0.82">0.82×</option><option value="0.94" selected>0.94×</option><option value="1.05">1.05×</option><option value="1.18">1.18×</option>
+        </select>
+        <input id="storyProgress" type="range" min="0" max="1" value="0" aria-label="Story position" />
+        <span class="transport__hint">DRAG THE WORLD · SCROLL TO TRAVEL · ← → CHANGE ERA</span>
+      </nav>
+
+      <div class="era-marks" id="eraMarks" aria-label="Jump to an era"></div>
+
+      <aside class="reader" id="reader" aria-hidden="true">
+        <header class="reader__header">
+          <div><span>THE COMPLETE TRANSCRIPT</span><small>SYNCED TO THE JOURNEY</small></div>
+          <button id="readerClose" type="button" aria-label="Close complete transcript">CLOSE ×</button>
+        </header>
+        <article class="reader__text" id="readerText"></article>
+      </aside>
+    </main>
+
+    <noscript>This animated reading needs JavaScript enabled.</noscript>
+    <script src="story-data.js?v=2"></script>
+    <script src="visuals.js?v=2"></script>
+    <script src="narration-data.js?v=2"></script>
+    <script src="script.js?v=2"></script>
+  </body>
+</html>

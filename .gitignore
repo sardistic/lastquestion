@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+audio/.cache/
+docs/agent/HANDOFF.md
+.agent/runtime/
