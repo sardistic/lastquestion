@@ -4,7 +4,7 @@
   "voiceName": "George - Warm, Captivating Storyteller",
   "modelId": "eleven_v3",
   "wordCount": 4439,
-  "generatedAt": "2026-09-17T20:42:00.746Z",
+  "generatedAt": "2026-09-18T05:18:36.307Z",
   "segments": [
     {
       "file": "audio/narration-00.mp3",
@@ -17375,3577 +17375,3577 @@
       "file": "audio/narration-05.mp3",
       "startWord": 3465,
       "endWord": 4178,
-      "duration": 515.444,
+      "duration": 284.256,
       "wordTimings": [
         {
           "wordIndex": 3465,
           "start": 0,
-          "end": 0.16
+          "end": 0.209
         },
         {
           "wordIndex": 3466,
-          "start": 0.224,
-          "end": 0.48
+          "start": 0.29,
+          "end": 0.592
         },
         {
           "wordIndex": 3467,
-          "start": 0.524,
-          "end": 0.88
+          "start": 0.65,
+          "end": 0.964
         },
         {
           "wordIndex": 3468,
-          "start": 0.94,
-          "end": 1.12
+          "start": 1.01,
+          "end": 1.126
         },
         {
           "wordIndex": 3469,
-          "start": 1.2,
-          "end": 1.52
+          "start": 1.184,
+          "end": 1.474
         },
         {
           "wordIndex": 3470,
-          "start": 1.547,
-          "end": 1.6
+          "start": 1.533,
+          "end": 1.602
         },
         {
           "wordIndex": 3471,
-          "start": 1.62,
-          "end": 1.68
+          "start": 1.637,
+          "end": 1.707
         },
         {
           "wordIndex": 3472,
-          "start": 1.742,
-          "end": 2.24
+          "start": 1.753,
+          "end": 2.159
         },
         {
           "wordIndex": 3473,
-          "start": 2.309,
-          "end": 2.72
+          "start": 2.229,
+          "end": 2.67
         },
         {
           "wordIndex": 3474,
-          "start": 2.747,
-          "end": 2.8
+          "start": 2.728,
+          "end": 2.775
         },
         {
           "wordIndex": 3475,
-          "start": 2.9,
-          "end": 3.92
+          "start": 2.844,
+          "end": 3.39
         },
         {
           "wordIndex": 3476,
-          "start": 3.96,
-          "end": 4.08
+          "start": 3.576,
+          "end": 3.738
         },
         {
           "wordIndex": 3477,
-          "start": 4.133,
-          "end": 4.24
+          "start": 3.785,
+          "end": 3.866
         },
         {
           "wordIndex": 3478,
-          "start": 4.297,
-          "end": 4.64
+          "start": 3.913,
+          "end": 4.226
         },
         {
           "wordIndex": 3479,
-          "start": 4.72,
-          "end": 5.04
+          "start": 4.307,
+          "end": 4.551
         },
         {
           "wordIndex": 3480,
-          "start": 5.14,
-          "end": 5.44
+          "start": 4.621,
+          "end": 4.702
         },
         {
           "wordIndex": 3481,
-          "start": 5.488,
-          "end": 5.68
+          "start": 4.772,
+          "end": 5.004
         },
         {
           "wordIndex": 3482,
-          "start": 5.737,
-          "end": 6.08
+          "start": 5.05,
+          "end": 5.364
         },
         {
           "wordIndex": 3483,
-          "start": 6.133,
-          "end": 6.4
+          "start": 5.422,
+          "end": 5.631
         },
         {
           "wordIndex": 3484,
-          "start": 6.42,
-          "end": 6.48
+          "start": 5.677,
+          "end": 5.747
         },
         {
           "wordIndex": 3485,
-          "start": 6.53,
-          "end": 6.88
+          "start": 5.782,
+          "end": 6.13
         },
         {
           "wordIndex": 3486,
-          "start": 6.94,
-          "end": 7.12
+          "start": 6.177,
+          "end": 6.351
         },
         {
           "wordIndex": 3487,
-          "start": 7.2,
-          "end": 7.76
+          "start": 6.432,
+          "end": 6.978
         },
         {
           "wordIndex": 3488,
-          "start": 8.107,
-          "end": 8.8
+          "start": 7.616,
+          "end": 7.732
         },
         {
           "wordIndex": 3489,
-          "start": 8.827,
-          "end": 8.96
+          "start": 7.802,
+          "end": 7.976
         },
         {
           "wordIndex": 3490,
-          "start": 9.017,
-          "end": 9.36
+          "start": 8.022,
+          "end": 8.29
         },
         {
           "wordIndex": 3491,
-          "start": 9.387,
-          "end": 9.44
+          "start": 8.324,
+          "end": 8.371
         },
         {
           "wordIndex": 3492,
-          "start": 9.48,
-          "end": 9.6
+          "start": 8.429,
+          "end": 8.591
         },
         {
           "wordIndex": 3493,
-          "start": 9.653,
-          "end": 9.76
+          "start": 8.626,
+          "end": 8.707
         },
         {
           "wordIndex": 3494,
-          "start": 9.827,
-          "end": 10.48
+          "start": 8.754,
+          "end": 9.311
         },
         {
           "wordIndex": 3495,
-          "start": 12.3,
-          "end": 12.48
+          "start": 9.857,
+          "end": 10.054
         },
         {
           "wordIndex": 3496,
-          "start": 12.54,
-          "end": 12.72
+          "start": 10.112,
+          "end": 10.356
         },
         {
           "wordIndex": 3497,
-          "start": 12.76,
-          "end": 12.96
+          "start": 10.437,
+          "end": 10.681
         },
         {
           "wordIndex": 3498,
-          "start": 13.024,
-          "end": 13.68
+          "start": 10.786,
+          "end": 11.204
         },
         {
           "wordIndex": 3499,
-          "start": 13.88,
-          "end": 14.24
+          "start": 11.459,
+          "end": 11.749
         },
         {
           "wordIndex": 3500,
-          "start": 14.293,
-          "end": 14.4
+          "start": 11.807,
+          "end": 11.877
         },
         {
           "wordIndex": 3501,
-          "start": 14.467,
-          "end": 160.799
+          "start": 11.923,
+          "end": 12.504
         },
         {
           "wordIndex": 3502,
-          "start": 160.822,
-          "end": 160.882
+          "start": 12.806,
+          "end": 13.026
         },
         {
           "wordIndex": 3503,
-          "start": 160.935,
-          "end": 161.202
+          "start": 13.073,
+          "end": 13.409
         },
         {
           "wordIndex": 3504,
-          "start": 161.255,
-          "end": 161.426
+          "start": 13.444,
+          "end": 13.525
         },
         {
           "wordIndex": 3505,
-          "start": 161.49,
-          "end": 161.842
+          "start": 13.56,
+          "end": 14.094
         },
         {
           "wordIndex": 3506,
-          "start": 161.922,
-          "end": 162.162
+          "start": 14.222,
+          "end": 14.338
         },
         {
           "wordIndex": 3507,
-          "start": 162.242,
-          "end": 178.282
+          "start": 14.396,
+          "end": 14.803
         },
         {
           "wordIndex": 3508,
-          "start": 178.29,
-          "end": 178.322
+          "start": 14.872,
+          "end": 15.232
         },
         {
           "wordIndex": 3509,
-          "start": 178.342,
-          "end": 178.382
+          "start": 15.302,
+          "end": 15.395
         },
         {
           "wordIndex": 3510,
-          "start": 178.402,
-          "end": 178.642
+          "start": 15.453,
+          "end": 16.068
         },
         {
           "wordIndex": 3511,
-          "start": 179.042,
-          "end": 179.986
+          "start": 16.532,
+          "end": 16.776
         },
         {
           "wordIndex": 3512,
-          "start": 180.194,
-          "end": 180.589
+          "start": 16.811,
+          "end": 16.985
         },
         {
           "wordIndex": 3513,
-          "start": 180.615,
-          "end": 180.738
+          "start": 17.032,
+          "end": 17.183
         },
         {
           "wordIndex": 3514,
-          "start": 180.786,
-          "end": 181.002
+          "start": 17.252,
+          "end": 17.833
         },
         {
           "wordIndex": 3515,
-          "start": 181.062,
-          "end": 181.236
+          "start": 18.181,
+          "end": 18.378
         },
         {
           "wordIndex": 3516,
-          "start": 181.293,
-          "end": 181.549
+          "start": 18.448,
+          "end": 19.133
         },
         {
           "wordIndex": 3517,
-          "start": 182.002,
-          "end": 182.442
+          "start": 19.481,
+          "end": 19.714
         },
         {
           "wordIndex": 3518,
-          "start": 182.482,
-          "end": 182.711
+          "start": 19.748,
+          "end": 19.899
         },
         {
           "wordIndex": 3519,
-          "start": 182.768,
-          "end": 182.914
+          "start": 19.957,
+          "end": 20.155
         },
         {
           "wordIndex": 3520,
-          "start": 182.946,
-          "end": 183.222
+          "start": 20.236,
+          "end": 20.561
         },
         {
           "wordIndex": 3521,
-          "start": 183.282,
-          "end": 183.402
+          "start": 20.619,
+          "end": 20.7
         },
         {
           "wordIndex": 3522,
-          "start": 183.462,
-          "end": 184.002
+          "start": 20.77,
+          "end": 21.246
         },
         {
           "wordIndex": 3523,
-          "start": 184.082,
-          "end": 184.442
+          "start": 21.374,
+          "end": 21.525
         },
         {
           "wordIndex": 3524,
-          "start": 184.562,
-          "end": 184.802
+          "start": 21.571,
+          "end": 21.873
         },
         {
           "wordIndex": 3525,
-          "start": 184.842,
-          "end": 185.09
+          "start": 21.908,
+          "end": 22.059
         },
         {
           "wordIndex": 3526,
-          "start": 185.138,
-          "end": 185.474
+          "start": 22.117,
+          "end": 22.5
         },
         {
           "wordIndex": 3527,
-          "start": 185.522,
-          "end": 187.122
+          "start": 22.558,
+          "end": 22.999
         },
         {
           "wordIndex": 3528,
-          "start": 187.162,
-          "end": 187.282
+          "start": 23.127,
+          "end": 23.266
         },
         {
           "wordIndex": 3529,
-          "start": 187.298,
-          "end": 187.346
+          "start": 23.336,
+          "end": 23.429
         },
         {
           "wordIndex": 3530,
-          "start": 187.362,
-          "end": 187.506
+          "start": 23.498,
+          "end": 23.568
         },
         {
           "wordIndex": 3531,
-          "start": 187.554,
-          "end": 187.602
+          "start": 23.673,
+          "end": 23.719
         },
         {
           "wordIndex": 3532,
-          "start": 187.655,
-          "end": 187.869
+          "start": 23.847,
+          "end": 24.032
         },
         {
           "wordIndex": 3533,
-          "start": 187.922,
-          "end": 188.162
+          "start": 24.067,
+          "end": 24.52
         },
         {
           "wordIndex": 3534,
-          "start": 188.802,
-          "end": 189.394
+          "start": 24.926,
+          "end": 25.112
         },
         {
           "wordIndex": 3535,
-          "start": 189.65,
-          "end": 190.269
+          "start": 25.147,
+          "end": 25.275
         },
         {
           "wordIndex": 3536,
-          "start": 190.322,
-          "end": 190.482
+          "start": 25.31,
+          "end": 25.484
         },
         {
           "wordIndex": 3537,
-          "start": 190.53,
-          "end": 190.909
+          "start": 25.53,
+          "end": 25.913
         },
         {
           "wordIndex": 3538,
-          "start": 190.935,
-          "end": 191.019
+          "start": 25.96,
+          "end": 26.018
         },
         {
           "wordIndex": 3539,
-          "start": 191.076,
-          "end": 191.554
+          "start": 26.076,
+          "end": 26.807
         },
         {
           "wordIndex": 3540,
-          "start": 192.055,
-          "end": 192.162
+          "start": 27.214,
+          "end": 27.434
         },
         {
           "wordIndex": 3541,
-          "start": 192.206,
-          "end": 192.295
+          "start": 27.515,
+          "end": 27.597
         },
         {
           "wordIndex": 3542,
-          "start": 192.34,
-          "end": 192.473
+          "start": 27.666,
+          "end": 27.771
         },
         {
           "wordIndex": 3543,
-          "start": 192.518,
-          "end": 192.722
+          "start": 27.817,
+          "end": 28.003
         },
         {
           "wordIndex": 3544,
-          "start": 192.802,
-          "end": 192.962
+          "start": 28.05,
+          "end": 28.119
         },
         {
           "wordIndex": 3545,
-          "start": 193.042,
-          "end": 193.202
+          "start": 28.154,
+          "end": 28.2
         },
         {
           "wordIndex": 3546,
-          "start": 193.282,
-          "end": 194.242
+          "start": 28.27,
+          "end": 28.549
         },
         {
           "wordIndex": 3547,
-          "start": 194.402,
-          "end": 195.095
+          "start": 28.63,
+          "end": 28.862
         },
         {
           "wordIndex": 3548,
-          "start": 195.309,
-          "end": 196.222
+          "start": 28.908,
+          "end": 29.152
         },
         {
           "wordIndex": 3549,
-          "start": 196.322,
-          "end": 196.882
+          "start": 29.199,
+          "end": 29.547
         },
         {
           "wordIndex": 3550,
-          "start": 196.962,
-          "end": 197.095
+          "start": 29.593,
+          "end": 29.651
         },
         {
           "wordIndex": 3551,
-          "start": 197.149,
-          "end": 197.442
+          "start": 29.71,
+          "end": 30.267
         },
         {
           "wordIndex": 3552,
-          "start": 197.474,
-          "end": 198.069
+          "start": 30.731,
+          "end": 31.323
         },
         {
           "wordIndex": 3553,
-          "start": 198.162,
-          "end": 198.754
+          "start": 31.405,
+          "end": 32.136
         },
         {
           "wordIndex": 3554,
-          "start": 199.026,
-          "end": 199.842
+          "start": 32.322,
+          "end": 32.508
         },
         {
           "wordIndex": 3555,
-          "start": 199.882,
-          "end": 200.002
+          "start": 32.566,
+          "end": 32.705
         },
         {
           "wordIndex": 3556,
-          "start": 200.082,
-          "end": 200.402
+          "start": 32.763,
+          "end": 33.146
         },
         {
           "wordIndex": 3557,
-          "start": 200.482,
-          "end": 200.61
+          "start": 33.193,
+          "end": 33.285
         },
         {
           "wordIndex": 3558,
-          "start": 200.658,
-          "end": 200.855
+          "start": 33.343,
+          "end": 33.564
         },
         {
           "wordIndex": 3559,
-          "start": 200.909,
-          "end": 201.13
+          "start": 33.61,
+          "end": 33.75
         },
         {
           "wordIndex": 3560,
-          "start": 201.186,
-          "end": 202.002
+          "start": 33.808,
+          "end": 34.435
         },
         {
           "wordIndex": 3561,
-          "start": 202.615,
-          "end": 202.779
+          "start": 35.178,
+          "end": 35.41
         },
         {
           "wordIndex": 3562,
-          "start": 202.848,
-          "end": 203.053
+          "start": 35.468,
+          "end": 35.7
         },
         {
           "wordIndex": 3563,
-          "start": 203.122,
-          "end": 203.242
+          "start": 35.805,
+          "end": 36.002
         },
         {
           "wordIndex": 3564,
-          "start": 203.282,
-          "end": 203.602
+          "start": 36.083,
+          "end": 36.327
         },
         {
           "wordIndex": 3565,
-          "start": 203.682,
-          "end": 203.842
+          "start": 36.374,
+          "end": 36.432
         },
         {
           "wordIndex": 3566,
-          "start": 203.922,
-          "end": 204.304
+          "start": 36.478,
+          "end": 37.175
         },
         {
           "wordIndex": 3567,
-          "start": 204.366,
-          "end": 204.802
+          "start": 37.523,
+          "end": 37.79
         },
         {
           "wordIndex": 3568,
-          "start": 204.829,
-          "end": 205.17
+          "start": 37.836,
+          "end": 38.138
         },
         {
           "wordIndex": 3569,
-          "start": 205.242,
-          "end": 205.458
+          "start": 38.185,
+          "end": 38.289
         },
         {
           "wordIndex": 3570,
-          "start": 205.53,
-          "end": 206.278
+          "start": 38.371,
+          "end": 38.777
         },
         {
           "wordIndex": 3571,
-          "start": 206.387,
-          "end": 206.933
+          "start": 38.835,
+          "end": 38.997
         },
         {
           "wordIndex": 3572,
-          "start": 207.042,
-          "end": 207.074
+          "start": 39.032,
+          "end": 39.125
         },
         {
           "wordIndex": 3573,
-          "start": 207.09,
-          "end": 207.242
+          "start": 39.183,
+          "end": 39.613
         },
         {
           "wordIndex": 3574,
-          "start": 207.262,
-          "end": 207.338
+          "start": 39.648,
+          "end": 39.706
         },
         {
           "wordIndex": 3575,
-          "start": 207.394,
-          "end": 208.402
+          "start": 39.764,
+          "end": 40.472
         },
         {
           "wordIndex": 3576,
-          "start": 208.775,
-          "end": 208.962
+          "start": 40.878,
+          "end": 41.006
         },
         {
           "wordIndex": 3577,
-          "start": 209.402,
-          "end": 209.942
+          "start": 41.052,
+          "end": 41.122
         },
         {
           "wordIndex": 3578,
-          "start": 209.962,
-          "end": 210.602
+          "start": 41.203,
+          "end": 41.679
         },
         {
           "wordIndex": 3579,
-          "start": 210.642,
-          "end": 210.882
+          "start": 41.749,
+          "end": 42.039
         },
         {
           "wordIndex": 3580,
-          "start": 210.962,
-          "end": 211.482
+          "start": 42.225,
+          "end": 42.771
         },
         {
           "wordIndex": 3581,
-          "start": 211.522,
-          "end": 211.922
+          "start": 43.177,
+          "end": 43.491
         },
         {
           "wordIndex": 3582,
-          "start": 212.002,
-          "end": 212.082
+          "start": 43.525,
+          "end": 43.618
         },
         {
           "wordIndex": 3583,
-          "start": 212.122,
-          "end": 212.202
+          "start": 43.665,
+          "end": 43.746
         },
         {
           "wordIndex": 3584,
-          "start": 212.242,
-          "end": 212.402
+          "start": 43.827,
+          "end": 44.059
         },
         {
           "wordIndex": 3585,
-          "start": 212.442,
-          "end": 213.202
+          "start": 44.117,
+          "end": 44.721
         },
         {
           "wordIndex": 3586,
-          "start": 213.282,
-          "end": 214.109
+          "start": 44.779,
+          "end": 45.197
         },
         {
           "wordIndex": 3587,
-          "start": 214.535,
-          "end": 215.289
+          "start": 45.266,
+          "end": 45.417
         },
         {
           "wordIndex": 3588,
-          "start": 215.335,
-          "end": 215.382
+          "start": 45.464,
+          "end": 45.487
         },
         {
           "wordIndex": 3589,
-          "start": 215.429,
-          "end": 215.895
+          "start": 45.557,
+          "end": 46.01
         },
         {
           "wordIndex": 3590,
-          "start": 215.931,
-          "end": 216.386
+          "start": 46.091,
+          "end": 46.822
         },
         {
           "wordIndex": 3591,
-          "start": 216.722,
-          "end": 216.842
+          "start": 47.681,
+          "end": 47.914
         },
         {
           "wordIndex": 3592,
-          "start": 216.882,
-          "end": 217.396
+          "start": 47.96,
+          "end": 48.32
         },
         {
           "wordIndex": 3593,
-          "start": 217.488,
-          "end": 218.93
+          "start": 48.366,
+          "end": 48.715
         },
         {
           "wordIndex": 3594,
-          "start": 218.978,
-          "end": 219.202
+          "start": 48.761,
+          "end": 48.993
         },
         {
           "wordIndex": 3595,
-          "start": 219.282,
-          "end": 219.482
+          "start": 49.051,
+          "end": 49.249
         },
         {
           "wordIndex": 3596,
-          "start": 219.522,
-          "end": 219.602
+          "start": 49.307,
+          "end": 49.376
         },
         {
           "wordIndex": 3597,
-          "start": 219.642,
-          "end": 219.802
+          "start": 49.458,
+          "end": 49.551
         },
         {
           "wordIndex": 3598,
-          "start": 219.862,
-          "end": 220.042
+          "start": 49.597,
+          "end": 49.748
         },
         {
           "wordIndex": 3599,
-          "start": 220.102,
-          "end": 220.502
+          "start": 49.818,
+          "end": 50.607
         },
         {
           "wordIndex": 3600,
-          "start": 220.562,
-          "end": 220.762
+          "start": 51.246,
+          "end": 51.362
         },
         {
           "wordIndex": 3601,
-          "start": 220.862,
-          "end": 221.162
+          "start": 51.42,
+          "end": 51.629
         },
         {
           "wordIndex": 3602,
-          "start": 221.282,
-          "end": 221.442
+          "start": 51.675,
+          "end": 51.78
         },
         {
           "wordIndex": 3603,
-          "start": 221.522,
-          "end": 222.082
+          "start": 51.849,
+          "end": 52.151
         },
         {
           "wordIndex": 3604,
-          "start": 222.162,
-          "end": 222.482
+          "start": 52.209,
+          "end": 52.476
         },
         {
           "wordIndex": 3605,
-          "start": 222.509,
-          "end": 222.562
+          "start": 52.511,
+          "end": 52.581
         },
         {
           "wordIndex": 3606,
-          "start": 222.612,
-          "end": 222.762
+          "start": 52.65,
+          "end": 52.825
         },
         {
           "wordIndex": 3607,
-          "start": 222.812,
-          "end": 222.962
+          "start": 52.894,
+          "end": 53.138
         },
         {
           "wordIndex": 3608,
-          "start": 223.015,
-          "end": 223.402
+          "start": 53.208,
+          "end": 53.695
         },
         {
           "wordIndex": 3609,
-          "start": 223.442,
-          "end": 223.642
+          "start": 53.765,
+          "end": 53.997
         },
         {
           "wordIndex": 3610,
-          "start": 223.682,
-          "end": 223.869
+          "start": 54.032,
+          "end": 54.276
         },
         {
           "wordIndex": 3611,
-          "start": 223.922,
-          "end": 224.189
+          "start": 54.334,
+          "end": 54.496
         },
         {
           "wordIndex": 3612,
-          "start": 224.242,
-          "end": 224.349
+          "start": 54.531,
+          "end": 54.613
         },
         {
           "wordIndex": 3613,
-          "start": 224.402,
-          "end": 224.722
+          "start": 54.659,
+          "end": 54.972
         },
         {
           "wordIndex": 3614,
-          "start": 224.762,
-          "end": 224.882
+          "start": 55.019,
+          "end": 55.077
         },
         {
           "wordIndex": 3615,
-          "start": 224.962,
-          "end": 225.042
+          "start": 55.123,
+          "end": 55.147
         },
         {
           "wordIndex": 3616,
-          "start": 225.122,
-          "end": 225.949
+          "start": 55.216,
+          "end": 55.681
         },
         {
           "wordIndex": 3617,
-          "start": 225.975,
-          "end": 226.002
+          "start": 55.739,
+          "end": 55.762
         },
         {
           "wordIndex": 3618,
-          "start": 226.042,
-          "end": 226.562
+          "start": 55.82,
+          "end": 56.215
         },
         {
           "wordIndex": 3619,
-          "start": 226.61,
-          "end": 227.202
+          "start": 56.296,
+          "end": 56.772
         },
         {
           "wordIndex": 3620,
-          "start": 227.282,
-          "end": 227.682
+          "start": 56.807,
+          "end": 57.387
         },
         {
           "wordIndex": 3621,
-          "start": 227.722,
-          "end": 227.842
+          "start": 57.933,
+          "end": 58.119
         },
         {
           "wordIndex": 3622,
-          "start": 227.922,
-          "end": 228.082
+          "start": 58.188,
+          "end": 58.258
         },
         {
           "wordIndex": 3623,
-          "start": 228.162,
-          "end": 229.202
+          "start": 58.304,
+          "end": 58.374
         },
         {
           "wordIndex": 3624,
-          "start": 229.234,
-          "end": 229.362
+          "start": 58.432,
+          "end": 58.815
         },
         {
           "wordIndex": 3625,
-          "start": 229.402,
-          "end": 229.613
+          "start": 58.897,
+          "end": 59.117
         },
         {
           "wordIndex": 3626,
-          "start": 229.671,
-          "end": 229.785
+          "start": 59.14,
+          "end": 59.199
         },
         {
           "wordIndex": 3627,
-          "start": 229.842,
-          "end": 230.653
+          "start": 59.28,
+          "end": 59.466
         },
         {
           "wordIndex": 3628,
-          "start": 230.779,
-          "end": 231.522
+          "start": 59.512,
+          "end": 59.872
         },
         {
           "wordIndex": 3629,
-          "start": 231.602,
-          "end": 231.842
+          "start": 59.942,
+          "end": 60.464
         },
         {
           "wordIndex": 3630,
-          "start": 231.922,
-          "end": 232.322
+          "start": 60.929,
+          "end": 61.056
         },
         {
           "wordIndex": 3631,
-          "start": 232.402,
-          "end": 232.842
+          "start": 61.091,
+          "end": 61.3
         },
         {
           "wordIndex": 3632,
-          "start": 232.909,
-          "end": 233.309
+          "start": 61.335,
+          "end": 61.823
         },
         {
           "wordIndex": 3633,
-          "start": 233.667,
-          "end": 234.255
+          "start": 62.078,
+          "end": 62.751
         },
         {
           "wordIndex": 3634,
-          "start": 234.322,
-          "end": 234.425
+          "start": 62.833,
+          "end": 63.088
         },
         {
           "wordIndex": 3635,
-          "start": 234.459,
-          "end": 234.722
+          "start": 63.135,
+          "end": 63.413
         },
         {
           "wordIndex": 3636,
-          "start": 234.802,
-          "end": 235.202
+          "start": 63.448,
+          "end": 63.68
         },
         {
           "wordIndex": 3637,
-          "start": 235.282,
-          "end": 235.962
+          "start": 63.75,
+          "end": 64.156
         },
         {
           "wordIndex": 3638,
-          "start": 236.002,
-          "end": 236.522
+          "start": 64.238,
+          "end": 64.841
         },
         {
           "wordIndex": 3639,
-          "start": 236.562,
-          "end": 237.122
+          "start": 64.911,
+          "end": 65.433
         },
         {
           "wordIndex": 3640,
-          "start": 237.202,
-          "end": 237.389
+          "start": 65.782,
+          "end": 66.014
         },
         {
           "wordIndex": 3641,
-          "start": 237.415,
-          "end": 237.482
+          "start": 66.06,
+          "end": 66.107
         },
         {
           "wordIndex": 3642,
-          "start": 237.522,
-          "end": 237.902
+          "start": 66.153,
+          "end": 66.327
         },
         {
           "wordIndex": 3643,
-          "start": 238.002,
-          "end": 238.455
+          "start": 66.374,
+          "end": 66.432
         },
         {
           "wordIndex": 3644,
-          "start": 238.829,
-          "end": 239.362
+          "start": 66.502,
+          "end": 66.745
         },
         {
           "wordIndex": 3645,
-          "start": 239.442,
-          "end": 239.442
+          "start": 66.792,
+          "end": 66.815
         },
         {
           "wordIndex": 3646,
-          "start": 239.442,
-          "end": 239.522
+          "start": 66.873,
+          "end": 67.175
         },
         {
           "wordIndex": 3647,
-          "start": 239.522,
-          "end": 239.762
+          "start": 67.256,
+          "end": 67.581
         },
         {
           "wordIndex": 3648,
-          "start": 239.842,
-          "end": 239.97
+          "start": 67.628,
+          "end": 67.686
         },
         {
           "wordIndex": 3649,
-          "start": 240.034,
-          "end": 240.232
+          "start": 67.732,
+          "end": 67.825
         },
         {
           "wordIndex": 3650,
-          "start": 240.302,
-          "end": 240.582
+          "start": 67.883,
+          "end": 68.394
         },
         {
           "wordIndex": 3651,
-          "start": 240.652,
-          "end": 240.822
+          "start": 68.94,
+          "end": 69.067
         },
         {
           "wordIndex": 3652,
-          "start": 240.922,
-          "end": 241.522
+          "start": 69.114,
+          "end": 69.183
         },
         {
           "wordIndex": 3653,
-          "start": 241.575,
-          "end": 242.146
+          "start": 69.23,
+          "end": 69.601
         },
         {
           "wordIndex": 3654,
-          "start": 242.146,
-          "end": 242.21
+          "start": 69.648,
+          "end": 69.81
         },
         {
           "wordIndex": 3655,
-          "start": 242.21,
-          "end": 242.522
+          "start": 69.857,
+          "end": 70.24
         },
         {
           "wordIndex": 3656,
-          "start": 242.562,
-          "end": 242.762
+          "start": 70.321,
+          "end": 70.832
         },
         {
           "wordIndex": 3657,
-          "start": 242.822,
-          "end": 242.935
+          "start": 70.902,
+          "end": 71.029
         },
         {
           "wordIndex": 3658,
-          "start": 242.989,
-          "end": 243.482
+          "start": 71.076,
+          "end": 71.273
         },
         {
           "wordIndex": 3659,
-          "start": 243.522,
-          "end": 243.842
+          "start": 71.354,
+          "end": 71.645
         },
         {
           "wordIndex": 3660,
-          "start": 244.082,
-          "end": 244.882
+          "start": 71.691,
+          "end": 71.842
         },
         {
           "wordIndex": 3661,
-          "start": 244.918,
-          "end": 245.024
+          "start": 71.877,
+          "end": 72.016
         },
         {
           "wordIndex": 3662,
-          "start": 245.06,
-          "end": 245.131
+          "start": 72.074,
+          "end": 72.156
         },
         {
           "wordIndex": 3663,
-          "start": 245.166,
-          "end": 245.442
+          "start": 72.214,
+          "end": 72.736
         },
         {
           "wordIndex": 3664,
-          "start": 246.615,
-          "end": 247.09
+          "start": 73.375,
+          "end": 73.7
         },
         {
           "wordIndex": 3665,
-          "start": 247.154,
-          "end": 247.682
+          "start": 73.769,
+          "end": 74.234
         },
         {
           "wordIndex": 3666,
-          "start": 247.722,
-          "end": 247.922
+          "start": 74.257,
+          "end": 74.385
         },
         {
           "wordIndex": 3667,
-          "start": 247.975,
-          "end": 248.669
+          "start": 74.408,
+          "end": 75.047
         },
         {
           "wordIndex": 3668,
-          "start": 248.722,
-          "end": 248.882
+          "start": 75.093,
+          "end": 75.232
         },
         {
           "wordIndex": 3669,
-          "start": 248.935,
-          "end": 249.042
+          "start": 75.279,
+          "end": 75.337
         },
         {
           "wordIndex": 3670,
-          "start": 249.282,
-          "end": 249.335
+          "start": 75.383,
+          "end": 75.407
         },
         {
           "wordIndex": 3671,
-          "start": 249.389,
-          "end": 249.602
+          "start": 75.465,
+          "end": 75.917
         },
         {
           "wordIndex": 3672,
-          "start": 249.655,
-          "end": 250.002
+          "start": 76.045,
+          "end": 76.405
         },
         {
           "wordIndex": 3673,
-          "start": 250.122,
-          "end": 250.676
+          "start": 76.451,
+          "end": 76.974
         },
         {
           "wordIndex": 3674,
-          "start": 250.745,
-          "end": 251.042
+          "start": 77.02,
+          "end": 77.183
         },
         {
           "wordIndex": 3675,
-          "start": 251.154,
-          "end": 251.602
+          "start": 77.264,
+          "end": 77.717
         },
         {
           "wordIndex": 3676,
-          "start": 251.629,
-          "end": 251.682
+          "start": 78.263,
+          "end": 78.379
         },
         {
           "wordIndex": 3677,
-          "start": 251.742,
-          "end": 252.322
+          "start": 78.437,
+          "end": 78.924
         },
         {
           "wordIndex": 3678,
-          "start": 252.802,
-          "end": 252.93
+          "start": 78.959,
+          "end": 79.017
         },
         {
           "wordIndex": 3679,
-          "start": 252.994,
-          "end": 253.058
+          "start": 79.064,
+          "end": 79.087
         },
         {
           "wordIndex": 3680,
-          "start": 253.122,
-          "end": 253.749
+          "start": 79.133,
+          "end": 79.725
         },
         {
           "wordIndex": 3681,
-          "start": 253.815,
-          "end": 254.295
+          "start": 79.888,
+          "end": 80.492
         },
         {
           "wordIndex": 3682,
-          "start": 254.349,
-          "end": 254.802
+          "start": 80.527,
+          "end": 81.061
         },
         {
           "wordIndex": 3683,
-          "start": 254.862,
-          "end": 255.874
+          "start": 81.281,
+          "end": 81.873
         },
         {
           "wordIndex": 3684,
-          "start": 255.938,
-          "end": 256.322
+          "start": 81.92,
+          "end": 82.593
         },
         {
           "wordIndex": 3685,
-          "start": 256.382,
-          "end": 256.642
+          "start": 82.895,
+          "end": 83.127
         },
         {
           "wordIndex": 3686,
-          "start": 256.722,
-          "end": 256.862
+          "start": 83.174,
+          "end": 83.243
         },
         {
           "wordIndex": 3687,
-          "start": 256.922,
-          "end": 257.102
+          "start": 83.29,
+          "end": 83.417
         },
         {
           "wordIndex": 3688,
-          "start": 257.162,
-          "end": 257.522
+          "start": 83.475,
+          "end": 84.021
         },
         {
           "wordIndex": 3689,
-          "start": 257.582,
-          "end": 257.869
+          "start": 84.242,
+          "end": 84.451
         },
         {
           "wordIndex": 3690,
-          "start": 257.975,
-          "end": 258.782
+          "start": 84.52,
+          "end": 84.857
         },
         {
           "wordIndex": 3691,
-          "start": 258.842,
-          "end": 259.122
+          "start": 84.938,
+          "end": 85.31
         },
         {
           "wordIndex": 3692,
-          "start": 259.175,
-          "end": 259.342
+          "start": 85.368,
+          "end": 85.484
         },
         {
           "wordIndex": 3693,
-          "start": 259.402,
-          "end": 260.422
+          "start": 85.565,
+          "end": 86.506
         },
         {
           "wordIndex": 3694,
-          "start": 260.442,
-          "end": 260.642
+          "start": 86.726,
+          "end": 86.982
         },
         {
           "wordIndex": 3695,
-          "start": 260.722,
-          "end": 261.015
+          "start": 87.04,
+          "end": 87.342
         },
         {
           "wordIndex": 3696,
-          "start": 261.042,
-          "end": 261.282
+          "start": 87.388,
+          "end": 87.551
         },
         {
           "wordIndex": 3697,
-          "start": 261.362,
-          "end": 261.442
+          "start": 87.632,
+          "end": 87.76
         },
         {
           "wordIndex": 3698,
-          "start": 261.482,
-          "end": 262.071
+          "start": 87.864,
+          "end": 88.27
         },
         {
           "wordIndex": 3699,
-          "start": 262.162,
-          "end": 262.916
+          "start": 88.328,
+          "end": 89.292
         },
         {
           "wordIndex": 3700,
-          "start": 262.985,
-          "end": 263.41
+          "start": 89.513,
+          "end": 89.942
         },
         {
           "wordIndex": 3701,
-          "start": 263.458,
-          "end": 264.482
+          "start": 90.012,
+          "end": 90.94
         },
         {
           "wordIndex": 3702,
-          "start": 264.542,
-          "end": 264.818
+          "start": 91.126,
+          "end": 91.393
         },
         {
           "wordIndex": 3703,
-          "start": 264.866,
-          "end": 265.01
+          "start": 91.428,
+          "end": 91.497
         },
         {
           "wordIndex": 3704,
-          "start": 265.058,
-          "end": 265.322
+          "start": 91.567,
+          "end": 91.915
         },
         {
           "wordIndex": 3705,
-          "start": 265.382,
-          "end": 307.602
+          "start": 91.95,
+          "end": 92.008
         },
         {
           "wordIndex": 3706,
-          "start": 307.622,
-          "end": 307.682
+          "start": 92.078,
+          "end": 92.31
         },
         {
           "wordIndex": 3707,
-          "start": 307.702,
-          "end": 307.749
+          "start": 92.368,
+          "end": 92.438
         },
         {
           "wordIndex": 3708,
-          "start": 307.762,
-          "end": 308.082
+          "start": 92.484,
+          "end": 92.809
         },
         {
           "wordIndex": 3709,
-          "start": 308.135,
-          "end": 308.415
+          "start": 92.879,
+          "end": 93.216
         },
         {
           "wordIndex": 3710,
-          "start": 308.509,
-          "end": 309.122
+          "start": 93.297,
+          "end": 93.669
         },
         {
           "wordIndex": 3711,
-          "start": 309.149,
-          "end": 309.502
+          "start": 93.75,
+          "end": 93.994
         },
         {
           "wordIndex": 3712,
-          "start": 309.802,
-          "end": 310.493
+          "start": 94.017,
+          "end": 94.156
         },
         {
           "wordIndex": 3713,
-          "start": 310.539,
-          "end": 310.676
+          "start": 94.226,
+          "end": 94.296
         },
         {
           "wordIndex": 3714,
-          "start": 310.722,
-          "end": 311.042
+          "start": 94.365,
+          "end": 94.76
         },
         {
           "wordIndex": 3715,
-          "start": 311.069,
-          "end": 311.922
+          "start": 94.946,
+          "end": 96.2
         },
         {
           "wordIndex": 3716,
-          "start": 312.562,
-          "end": 313.282
+          "start": 97.059,
+          "end": 97.337
         },
         {
           "wordIndex": 3717,
-          "start": 313.362,
-          "end": 313.762
+          "start": 97.442,
+          "end": 97.813
         },
         {
           "wordIndex": 3718,
-          "start": 313.855,
-          "end": 314.229
+          "start": 97.848,
+          "end": 98.034
         },
         {
           "wordIndex": 3719,
-          "start": 314.322,
-          "end": 315.082
+          "start": 98.162,
+          "end": 98.614
         },
         {
           "wordIndex": 3720,
-          "start": 315.122,
-          "end": 315.282
+          "start": 98.649,
+          "end": 98.731
         },
         {
           "wordIndex": 3721,
-          "start": 315.362,
-          "end": 315.89
+          "start": 98.8,
+          "end": 99.52
         },
         {
           "wordIndex": 3722,
-          "start": 316.29,
-          "end": 316.434
+          "start": 100.159,
+          "end": 100.495
         },
         {
           "wordIndex": 3723,
-          "start": 316.482,
-          "end": 317.346
+          "start": 100.565,
+          "end": 100.809
         },
         {
           "wordIndex": 3724,
-          "start": 317.41,
-          "end": 317.655
+          "start": 100.844,
+          "end": 101.18
         },
         {
           "wordIndex": 3725,
-          "start": 317.682,
-          "end": 317.762
+          "start": 101.238,
+          "end": 101.308
         },
         {
           "wordIndex": 3726,
-          "start": 317.802,
-          "end": 317.962
+          "start": 101.343,
+          "end": 101.412
         },
         {
           "wordIndex": 3727,
-          "start": 318.022,
-          "end": 318.295
+          "start": 101.459,
+          "end": 101.772
         },
         {
           "wordIndex": 3728,
-          "start": 318.322,
-          "end": 318.962
+          "start": 101.854,
+          "end": 102.771
         },
         {
           "wordIndex": 3729,
-          "start": 319.042,
-          "end": 319.314
+          "start": 102.957,
+          "end": 103.084
         },
         {
           "wordIndex": 3730,
-          "start": 319.426,
-          "end": 320.025
+          "start": 103.166,
+          "end": 103.537
         },
         {
           "wordIndex": 3731,
-          "start": 320.208,
-          "end": 321.182
+          "start": 103.607,
+          "end": 104.164
         },
         {
           "wordIndex": 3732,
-          "start": 321.242,
-          "end": 322.082
+          "start": 104.292,
+          "end": 105.406
         },
         {
           "wordIndex": 3733,
-          "start": 322.122,
-          "end": 322.282
+          "start": 105.569,
+          "end": 105.731
         },
         {
           "wordIndex": 3734,
-          "start": 322.322,
-          "end": 322.642
+          "start": 105.766,
+          "end": 105.998
         },
         {
           "wordIndex": 3735,
-          "start": 322.722,
-          "end": 323.351
+          "start": 106.056,
+          "end": 106.254
         },
         {
           "wordIndex": 3736,
-          "start": 323.419,
-          "end": 323.693
+          "start": 106.3,
+          "end": 106.869
         },
         {
           "wordIndex": 3737,
-          "start": 323.762,
-          "end": 323.882
+          "start": 107.032,
+          "end": 107.31
         },
         {
           "wordIndex": 3738,
-          "start": 323.882,
-          "end": 323.882
+          "start": 107.38,
+          "end": 107.45
         },
         {
           "wordIndex": 3739,
-          "start": 323.882,
-          "end": 324.002
+          "start": 107.496,
+          "end": 107.565
         },
         {
           "wordIndex": 3740,
-          "start": 324.102,
-          "end": 325.298
+          "start": 107.612,
+          "end": 107.972
         },
         {
           "wordIndex": 3741,
-          "start": 325.57,
-          "end": 325.895
+          "start": 108.03,
+          "end": 108.088
         },
         {
           "wordIndex": 3742,
-          "start": 325.949,
-          "end": 326.109
+          "start": 108.146,
+          "end": 108.215
         },
         {
           "wordIndex": 3743,
-          "start": 326.162,
-          "end": 326.342
+          "start": 108.273,
+          "end": 108.494
         },
         {
           "wordIndex": 3744,
-          "start": 326.362,
-          "end": 326.482
+          "start": 108.622,
+          "end": 108.866
         },
         {
           "wordIndex": 3745,
-          "start": 326.562,
-          "end": 326.902
+          "start": 108.935,
+          "end": 109.609
         },
         {
           "wordIndex": 3746,
-          "start": 326.952,
-          "end": 327.242
+          "start": 110.247,
+          "end": 110.7
         },
         {
           "wordIndex": 3747,
-          "start": 327.282,
-          "end": 327.442
+          "start": 110.746,
+          "end": 110.979
         },
         {
           "wordIndex": 3748,
-          "start": 327.522,
-          "end": 328.322
+          "start": 111.048,
+          "end": 111.478
         },
         {
           "wordIndex": 3749,
-          "start": 328.386,
-          "end": 328.642
+          "start": 111.524,
+          "end": 111.675
         },
         {
           "wordIndex": 3750,
-          "start": 328.695,
-          "end": 328.982
+          "start": 111.71,
+          "end": 111.942
         },
         {
           "wordIndex": 3751,
-          "start": 329.042,
-          "end": 329.498
+          "start": 111.977,
+          "end": 112.616
         },
         {
           "wordIndex": 3752,
-          "start": 329.57,
-          "end": 330.002
+          "start": 112.697,
+          "end": 113.103
         },
         {
           "wordIndex": 3753,
-          "start": 330.402,
-          "end": 330.498
+          "start": 113.161,
+          "end": 113.219
         },
         {
           "wordIndex": 3754,
-          "start": 330.546,
-          "end": 330.695
+          "start": 113.289,
+          "end": 113.359
         },
         {
           "wordIndex": 3755,
-          "start": 330.749,
-          "end": 331.042
+          "start": 113.428,
+          "end": 113.962
         },
         {
           "wordIndex": 3756,
-          "start": 331.602,
-          "end": 332.162
+          "start": 114.705,
+          "end": 114.984
         },
         {
           "wordIndex": 3757,
-          "start": 332.202,
-          "end": 332.402
+          "start": 115.054,
+          "end": 115.518
         },
         {
           "wordIndex": 3758,
-          "start": 332.442,
-          "end": 332.562
+          "start": 115.564,
+          "end": 115.669
         },
         {
           "wordIndex": 3759,
-          "start": 332.594,
-          "end": 332.722
+          "start": 115.715,
+          "end": 115.878
         },
         {
           "wordIndex": 3760,
-          "start": 332.775,
-          "end": 333.042
+          "start": 115.924,
+          "end": 116.168
         },
         {
           "wordIndex": 3761,
-          "start": 333.122,
-          "end": 333.282
+          "start": 116.226,
+          "end": 116.284
         },
         {
           "wordIndex": 3762,
-          "start": 333.362,
-          "end": 333.735
+          "start": 116.342,
+          "end": 116.412
         },
         {
           "wordIndex": 3763,
-          "start": 333.949,
-          "end": 334.802
+          "start": 116.47,
+          "end": 116.784
         },
         {
           "wordIndex": 3764,
-          "start": 334.882,
-          "end": 335.402
+          "start": 116.853,
+          "end": 117.178
         },
         {
           "wordIndex": 3765,
-          "start": 335.442,
-          "end": 335.562
+          "start": 117.213,
+          "end": 117.283
         },
         {
           "wordIndex": 3766,
-          "start": 335.602,
-          "end": 336.002
+          "start": 117.329,
+          "end": 118.003
         },
         {
           "wordIndex": 3767,
-          "start": 336.082,
-          "end": 336.242
+          "start": 118.223,
+          "end": 118.502
         },
         {
           "wordIndex": 3768,
-          "start": 336.282,
-          "end": 336.362
+          "start": 118.537,
+          "end": 118.676
         },
         {
           "wordIndex": 3769,
-          "start": 336.402,
-          "end": 336.9
+          "start": 118.78,
+          "end": 119.14
         },
         {
           "wordIndex": 3770,
-          "start": 336.971,
-          "end": 337.562
+          "start": 119.198,
+          "end": 120.011
         },
         {
           "wordIndex": 3771,
-          "start": 337.582,
-          "end": 337.773
+          "start": 120.139,
+          "end": 120.394
         },
         {
           "wordIndex": 3772,
-          "start": 337.831,
-          "end": 337.945
+          "start": 120.429,
+          "end": 120.557
         },
         {
           "wordIndex": 3773,
-          "start": 338.002,
-          "end": 338.242
+          "start": 120.626,
+          "end": 120.847
         },
         {
           "wordIndex": 3774,
-          "start": 338.322,
-          "end": 338.909
+          "start": 120.917,
+          "end": 121.625
         },
         {
           "wordIndex": 3775,
-          "start": 338.962,
-          "end": 339.122
+          "start": 121.88,
+          "end": 122.02
         },
         {
           "wordIndex": 3776,
-          "start": 339.175,
-          "end": 339.842
+          "start": 122.078,
+          "end": 122.345
         },
         {
           "wordIndex": 3777,
-          "start": 339.922,
-          "end": 340.282
+          "start": 122.38,
+          "end": 122.507
         },
         {
           "wordIndex": 3778,
-          "start": 340.375,
-          "end": 340.829
+          "start": 122.542,
+          "end": 122.844
         },
         {
           "wordIndex": 3779,
-          "start": 340.895,
-          "end": 341.762
+          "start": 122.867,
+          "end": 123.436
         },
         {
           "wordIndex": 3780,
-          "start": 341.802,
-          "end": 342.034
+          "start": 123.9,
+          "end": 124.214
         },
         {
           "wordIndex": 3781,
-          "start": 342.082,
-          "end": 342.594
+          "start": 124.26,
+          "end": 124.631
         },
         {
           "wordIndex": 3782,
-          "start": 342.69,
-          "end": 343.002
+          "start": 124.689,
+          "end": 124.898
         },
         {
           "wordIndex": 3783,
-          "start": 343.042,
-          "end": 343.162
+          "start": 124.957,
+          "end": 125.131
         },
         {
           "wordIndex": 3784,
-          "start": 343.202,
-          "end": 343.282
+          "start": 125.2,
+          "end": 125.293
         },
         {
           "wordIndex": 3785,
-          "start": 343.353,
-          "end": 343.851
+          "start": 125.351,
+          "end": 125.688
         },
         {
           "wordIndex": 3786,
-          "start": 343.922,
-          "end": 344.29
+          "start": 125.711,
+          "end": 126.129
         },
         {
           "wordIndex": 3787,
-          "start": 344.354,
-          "end": 344.562
+          "start": 126.292,
+          "end": 126.477
         },
         {
           "wordIndex": 3788,
-          "start": 344.642,
-          "end": 344.77
+          "start": 126.535,
+          "end": 126.594
         },
         {
           "wordIndex": 3789,
-          "start": 344.834,
-          "end": 345.026
+          "start": 126.64,
+          "end": 126.71
         },
         {
           "wordIndex": 3790,
-          "start": 345.09,
-          "end": 345.842
+          "start": 126.779,
+          "end": 127.093
         },
         {
           "wordIndex": 3791,
-          "start": 345.882,
-          "end": 346.189
+          "start": 127.162,
+          "end": 127.592
         },
         {
           "wordIndex": 3792,
-          "start": 346.242,
-          "end": 346.295
+          "start": 127.638,
+          "end": 127.813
         },
         {
           "wordIndex": 3793,
-          "start": 346.322,
-          "end": 346.615
+          "start": 127.894,
+          "end": 128.405
         },
         {
           "wordIndex": 3794,
-          "start": 346.669,
-          "end": 346.829
+          "start": 128.66,
+          "end": 128.846
         },
         {
           "wordIndex": 3795,
-          "start": 346.882,
-          "end": 347.202
+          "start": 128.904,
+          "end": 129.31
         },
         {
           "wordIndex": 3796,
-          "start": 347.282,
-          "end": 348.402
+          "start": 129.368,
+          "end": 129.868
         },
         {
           "wordIndex": 3797,
-          "start": 348.722,
-          "end": 349.242
+          "start": 130.169,
+          "end": 130.332
         },
         {
           "wordIndex": 3798,
-          "start": 349.342,
-          "end": 349.634
+          "start": 130.378,
+          "end": 130.587
         },
         {
           "wordIndex": 3799,
-          "start": 349.698,
-          "end": 350.322
+          "start": 130.669,
+          "end": 130.936
         },
         {
           "wordIndex": 3800,
-          "start": 350.802,
-          "end": 351.042
+          "start": 130.994,
+          "end": 131.365
         },
         {
           "wordIndex": 3801,
-          "start": 351.074,
-          "end": 351.17
+          "start": 131.423,
+          "end": 131.528
         },
         {
           "wordIndex": 3802,
-          "start": 351.202,
-          "end": 351.522
+          "start": 131.586,
+          "end": 131.853
         },
         {
           "wordIndex": 3803,
-          "start": 351.522,
-          "end": 351.714
+          "start": 131.911,
+          "end": 132.34
         },
         {
           "wordIndex": 3804,
-          "start": 351.778,
-          "end": 352.322
+          "start": 132.41,
+          "end": 132.654
         },
         {
           "wordIndex": 3805,
-          "start": 352.384,
-          "end": 352.758
+          "start": 132.689,
+          "end": 133.06
         },
         {
           "wordIndex": 3806,
-          "start": 352.82,
-          "end": 353.259
+          "start": 133.107,
+          "end": 133.827
         },
         {
           "wordIndex": 3807,
-          "start": 353.328,
-          "end": 353.533
+          "start": 134.012,
+          "end": 134.163
         },
         {
           "wordIndex": 3808,
-          "start": 354.242,
-          "end": 354.722
+          "start": 134.21,
+          "end": 134.465
         },
         {
           "wordIndex": 3809,
-          "start": 354.791,
-          "end": 355.133
+          "start": 134.488,
+          "end": 134.639
         },
         {
           "wordIndex": 3810,
-          "start": 355.202,
-          "end": 355.33
+          "start": 134.686,
+          "end": 134.86
         },
         {
           "wordIndex": 3811,
-          "start": 355.362,
-          "end": 355.469
+          "start": 134.895,
+          "end": 134.964
         },
         {
           "wordIndex": 3812,
-          "start": 355.522,
-          "end": 355.65
+          "start": 135.046,
+          "end": 135.104
         },
         {
           "wordIndex": 3813,
-          "start": 355.714,
-          "end": 355.962
+          "start": 135.162,
+          "end": 135.417
         },
         {
           "wordIndex": 3814,
-          "start": 356.022,
-          "end": 356.274
+          "start": 135.44,
+          "end": 136.044
         },
         {
           "wordIndex": 3815,
-          "start": 356.682,
-          "end": 356.822
+          "start": 136.787,
+          "end": 137.054
         },
         {
           "wordIndex": 3816,
-          "start": 356.842,
-          "end": 357.149
+          "start": 137.135,
+          "end": 137.495
         },
         {
           "wordIndex": 3817,
-          "start": 357.238,
-          "end": 358.002
+          "start": 137.623,
+          "end": 138.273
         },
         {
           "wordIndex": 3818,
-          "start": 358.098,
-          "end": 358.731
+          "start": 138.343,
+          "end": 139.016
         },
         {
           "wordIndex": 3819,
-          "start": 358.775,
-          "end": 358.864
+          "start": 139.086,
+          "end": 139.306
         },
         {
           "wordIndex": 3820,
-          "start": 358.909,
-          "end": 359.362
+          "start": 139.376,
+          "end": 139.829
         },
         {
           "wordIndex": 3821,
-          "start": 359.442,
-          "end": 359.602
+          "start": 139.875,
+          "end": 139.992
         },
         {
           "wordIndex": 3822,
-          "start": 359.682,
-          "end": 359.922
+          "start": 140.05,
+          "end": 140.119
         },
         {
           "wordIndex": 3823,
-          "start": 360.21,
-          "end": 361.682
+          "start": 140.189,
+          "end": 140.607
         },
         {
           "wordIndex": 3824,
-          "start": 361.842,
-          "end": 362.018
+          "start": 140.677,
+          "end": 141.373
         },
         {
           "wordIndex": 3825,
-          "start": 362.114,
-          "end": 362.402
+          "start": 141.559,
+          "end": 141.675
         },
         {
           "wordIndex": 3826,
-          "start": 362.482,
-          "end": 363.282
+          "start": 141.756,
+          "end": 142.093
         },
         {
           "wordIndex": 3827,
-          "start": 363.346,
-          "end": 363.602
+          "start": 142.151,
+          "end": 142.267
         },
         {
           "wordIndex": 3828,
-          "start": 363.65,
-          "end": 363.746
+          "start": 142.314,
+          "end": 142.395
         },
         {
           "wordIndex": 3829,
-          "start": 363.794,
-          "end": 364.082
+          "start": 142.464,
+          "end": 142.731
         },
         {
           "wordIndex": 3830,
-          "start": 364.114,
-          "end": 364.21
+          "start": 142.801,
+          "end": 143.057
         },
         {
           "wordIndex": 3831,
-          "start": 364.242,
-          "end": 364.482
+          "start": 143.161,
+          "end": 143.498
         },
         {
           "wordIndex": 3832,
-          "start": 364.53,
-          "end": 364.626
+          "start": 143.556,
+          "end": 143.637
         },
         {
           "wordIndex": 3833,
-          "start": 364.674,
-          "end": 364.775
+          "start": 143.684,
+          "end": 143.8
         },
         {
           "wordIndex": 3834,
-          "start": 364.802,
-          "end": 364.962
+          "start": 143.846,
+          "end": 143.916
         },
         {
           "wordIndex": 3835,
-          "start": 365.042,
-          "end": 366.042
+          "start": 144.02,
+          "end": 144.612
         },
         {
           "wordIndex": 3836,
-          "start": 366.192,
-          "end": 366.695
+          "start": 144.752,
+          "end": 144.961
         },
         {
           "wordIndex": 3837,
-          "start": 366.749,
-          "end": 366.922
+          "start": 145.019,
+          "end": 145.344
         },
         {
           "wordIndex": 3838,
-          "start": 366.962,
-          "end": 367.042
+          "start": 145.402,
+          "end": 145.506
         },
         {
           "wordIndex": 3839,
-          "start": 367.122,
-          "end": 367.65
+          "start": 145.564,
+          "end": 145.982
         },
         {
           "wordIndex": 3840,
-          "start": 367.682,
-          "end": 367.852
+          "start": 146.029,
+          "end": 146.087
         },
         {
           "wordIndex": 3841,
-          "start": 367.942,
-          "end": 368.522
+          "start": 146.156,
+          "end": 146.818
         },
         {
           "wordIndex": 3842,
-          "start": 368.802,
-          "end": 369.042
+          "start": 147.225,
+          "end": 147.457
         },
         {
           "wordIndex": 3843,
-          "start": 369.122,
-          "end": 369.762
+          "start": 147.503,
+          "end": 147.724
         },
         {
           "wordIndex": 3844,
-          "start": 369.802,
-          "end": 370.013
+          "start": 147.793,
+          "end": 148.188
         },
         {
           "wordIndex": 3845,
-          "start": 370.071,
-          "end": 370.306
+          "start": 148.211,
+          "end": 148.397
         },
         {
           "wordIndex": 3846,
-          "start": 370.37,
-          "end": 370.624
+          "start": 148.467,
+          "end": 148.908
         },
         {
           "wordIndex": 3847,
-          "start": 370.686,
-          "end": 371.394
+          "start": 148.978,
+          "end": 149.697
         },
         {
           "wordIndex": 3848,
-          "start": 371.506,
-          "end": 371.73
+          "start": 149.744,
+          "end": 149.802
         },
         {
           "wordIndex": 3849,
-          "start": 371.842,
-          "end": 372.162
+          "start": 149.825,
+          "end": 149.965
         },
         {
           "wordIndex": 3850,
-          "start": 372.219,
-          "end": 372.391
+          "start": 150.011,
+          "end": 150.197
         },
         {
           "wordIndex": 3851,
-          "start": 372.448,
-          "end": 372.615
+          "start": 150.266,
+          "end": 150.441
         },
         {
           "wordIndex": 3852,
-          "start": 372.642,
-          "end": 372.802
+          "start": 150.487,
+          "end": 150.545
         },
         {
           "wordIndex": 3853,
-          "start": 372.882,
-          "end": 373.042
+          "start": 150.626,
+          "end": 150.684
         },
         {
           "wordIndex": 3854,
-          "start": 373.122,
-          "end": 373.962
+          "start": 150.754,
+          "end": 151.218
         },
         {
           "wordIndex": 3855,
-          "start": 374.112,
-          "end": 374.882
+          "start": 151.857,
+          "end": 152.228
         },
         {
           "wordIndex": 3856,
-          "start": 374.93,
-          "end": 375.026
+          "start": 152.275,
+          "end": 152.345
         },
         {
           "wordIndex": 3857,
-          "start": 375.074,
-          "end": 375.229
+          "start": 152.414,
+          "end": 152.577
         },
         {
           "wordIndex": 3858,
-          "start": 375.282,
-          "end": 375.389
+          "start": 152.646,
+          "end": 152.751
         },
         {
           "wordIndex": 3859,
-          "start": 375.442,
-          "end": 375.952
+          "start": 152.809,
+          "end": 153.587
         },
         {
           "wordIndex": 3860,
-          "start": 376.002,
-          "end": 376.242
+          "start": 153.715,
+          "end": 154.074
         },
         {
           "wordIndex": 3861,
-          "start": 376.322,
-          "end": 377.122
+          "start": 154.132,
+          "end": 154.539
         },
         {
           "wordIndex": 3862,
-          "start": 377.274,
-          "end": 377.882
+          "start": 154.597,
+          "end": 155.085
         },
         {
           "wordIndex": 3863,
-          "start": 378.034,
-          "end": 378.49
+          "start": 155.34,
+          "end": 155.456
         },
         {
           "wordIndex": 3864,
-          "start": 378.642,
-          "end": 378.862
+          "start": 155.537,
+          "end": 155.862
         },
         {
           "wordIndex": 3865,
-          "start": 378.922,
-          "end": 379.162
+          "start": 155.943,
+          "end": 156.199
         },
         {
           "wordIndex": 3866,
-          "start": 379.222,
-          "end": 379.602
+          "start": 156.245,
+          "end": 156.779
         },
         {
           "wordIndex": 3867,
-          "start": 379.682,
-          "end": 379.842
+          "start": 156.837,
+          "end": 156.919
         },
         {
           "wordIndex": 3868,
-          "start": 379.922,
-          "end": 380.242
+          "start": 156.977,
+          "end": 157.383
         },
         {
           "wordIndex": 3869,
-          "start": 380.322,
-          "end": 381.042
+          "start": 157.511,
+          "end": 157.673
         },
         {
           "wordIndex": 3870,
-          "start": 381.162,
-          "end": 381.602
+          "start": 157.743,
+          "end": 158.01
         },
         {
           "wordIndex": 3871,
-          "start": 381.682,
-          "end": 381.802
+          "start": 158.056,
+          "end": 158.149
         },
         {
           "wordIndex": 3872,
-          "start": 381.842,
-          "end": 382.402
+          "start": 158.207,
+          "end": 158.95
         },
         {
           "wordIndex": 3873,
-          "start": 382.642,
-          "end": 383.602
+          "start": 159.589,
+          "end": 160.1
         },
         {
           "wordIndex": 3874,
-          "start": 384.002,
-          "end": 384.482
+          "start": 160.146,
+          "end": 160.32
         },
         {
           "wordIndex": 3875,
-          "start": 384.551,
-          "end": 385.282
+          "start": 160.378,
+          "end": 160.831
         },
         {
           "wordIndex": 3876,
-          "start": 385.442,
-          "end": 385.798
+          "start": 160.878,
+          "end": 161.296
         },
         {
           "wordIndex": 3877,
-          "start": 385.849,
-          "end": 385.951
+          "start": 161.365,
+          "end": 161.447
         },
         {
           "wordIndex": 3878,
-          "start": 386.002,
-          "end": 386.098
+          "start": 161.516,
+          "end": 161.586
         },
         {
           "wordIndex": 3879,
-          "start": 386.13,
-          "end": 386.802
+          "start": 161.632,
+          "end": 162.468
         },
         {
           "wordIndex": 3880,
-          "start": 387.335,
-          "end": 387.602
+          "start": 163.014,
+          "end": 163.327
         },
         {
           "wordIndex": 3881,
-          "start": 387.802,
-          "end": 388.482
+          "start": 163.409,
+          "end": 163.769
         },
         {
           "wordIndex": 3882,
-          "start": 388.544,
-          "end": 388.793
+          "start": 163.803,
+          "end": 164.07
         },
         {
           "wordIndex": 3883,
-          "start": 388.855,
-          "end": 389.175
+          "start": 164.14,
+          "end": 164.581
         },
         {
           "wordIndex": 3884,
-          "start": 389.229,
-          "end": 389.362
+          "start": 164.663,
+          "end": 164.813
         },
         {
           "wordIndex": 3885,
-          "start": 389.402,
-          "end": 389.495
+          "start": 164.872,
+          "end": 164.964
         },
         {
           "wordIndex": 3886,
-          "start": 389.549,
-          "end": 390.482
+          "start": 165.022,
+          "end": 165.707
         },
         {
           "wordIndex": 3887,
-          "start": 390.722,
-          "end": 391.042
+          "start": 165.893,
+          "end": 166.044
         },
         {
           "wordIndex": 3888,
-          "start": 391.082,
-          "end": 391.175
+          "start": 166.102,
+          "end": 166.183
         },
         {
           "wordIndex": 3889,
-          "start": 391.229,
-          "end": 391.442
+          "start": 166.253,
+          "end": 166.532
         },
         {
           "wordIndex": 3890,
-          "start": 391.522,
-          "end": 391.762
+          "start": 166.601,
+          "end": 166.671
         },
         {
           "wordIndex": 3891,
-          "start": 391.842,
-          "end": 392.442
+          "start": 166.729,
+          "end": 167.124
         },
         {
           "wordIndex": 3892,
-          "start": 392.542,
-          "end": 392.786
+          "start": 167.194,
+          "end": 168.006
         },
         {
           "wordIndex": 3893,
-          "start": 393.042,
-          "end": 393.162
+          "start": 168.413,
+          "end": 168.529
         },
         {
           "wordIndex": 3894,
-          "start": 393.202,
-          "end": 393.426
+          "start": 168.587,
+          "end": 168.947
         },
         {
           "wordIndex": 3895,
-          "start": 393.458,
-          "end": 393.522
+          "start": 169.005,
+          "end": 169.26
         },
         {
           "wordIndex": 3896,
-          "start": 393.542,
-          "end": 393.952
+          "start": 169.481,
+          "end": 169.957
         },
         {
           "wordIndex": 3897,
-          "start": 394.002,
-          "end": 394.276
+          "start": 170.003,
+          "end": 170.166
         },
         {
           "wordIndex": 3898,
-          "start": 394.345,
-          "end": 394.582
+          "start": 170.421,
+          "end": 170.584
         },
         {
           "wordIndex": 3899,
-          "start": 394.682,
-          "end": 394.962
+          "start": 170.63,
+          "end": 170.769
         },
         {
           "wordIndex": 3900,
-          "start": 395.042,
-          "end": 395.202
+          "start": 170.827,
+          "end": 170.897
         },
         {
           "wordIndex": 3901,
-          "start": 395.282,
-          "end": 396.422
+          "start": 170.978,
+          "end": 171.64
         },
         {
           "wordIndex": 3902,
-          "start": 396.562,
-          "end": 396.695
+          "start": 171.988,
+          "end": 172.174
         },
         {
           "wordIndex": 3903,
-          "start": 396.74,
-          "end": 396.784
+          "start": 172.221,
+          "end": 172.244
         },
         {
           "wordIndex": 3904,
-          "start": 396.829,
-          "end": 397.122
+          "start": 172.325,
+          "end": 172.732
         },
         {
           "wordIndex": 3905,
-          "start": 397.162,
-          "end": 397.298
+          "start": 172.778,
+          "end": 172.836
         },
         {
           "wordIndex": 3906,
-          "start": 397.394,
-          "end": 397.586
+          "start": 172.894,
+          "end": 172.964
         },
         {
           "wordIndex": 3907,
-          "start": 397.682,
-          "end": 397.802
+          "start": 172.999,
+          "end": 173.103
         },
         {
           "wordIndex": 3908,
-          "start": 397.842,
-          "end": 397.979
+          "start": 173.161,
+          "end": 173.231
         },
         {
           "wordIndex": 3909,
-          "start": 398.048,
-          "end": 398.642
+          "start": 173.289,
+          "end": 173.927
         },
         {
           "wordIndex": 3910,
-          "start": 398.802,
-          "end": 398.893
+          "start": 174.113,
+          "end": 174.241
         },
         {
           "wordIndex": 3911,
-          "start": 398.939,
-          "end": 399.076
+          "start": 174.276,
+          "end": 174.369
         },
         {
           "wordIndex": 3912,
-          "start": 399.122,
-          "end": 399.242
+          "start": 174.415,
+          "end": 174.473
         },
         {
           "wordIndex": 3913,
-          "start": 399.302,
-          "end": 399.789
+          "start": 174.543,
+          "end": 175.414
         },
         {
           "wordIndex": 3914,
-          "start": 399.815,
-          "end": 400.002
+          "start": 175.495,
+          "end": 175.669
         },
         {
           "wordIndex": 3915,
-          "start": 400.082,
-          "end": 400.362
+          "start": 175.727,
+          "end": 175.924
         },
         {
           "wordIndex": 3916,
-          "start": 400.429,
-          "end": 400.562
+          "start": 175.948,
+          "end": 175.994
         },
         {
           "wordIndex": 3917,
-          "start": 400.594,
-          "end": 401.069
+          "start": 176.052,
+          "end": 176.366
         },
         {
           "wordIndex": 3918,
-          "start": 401.095,
-          "end": 401.202
+          "start": 176.412,
+          "end": 176.516
         },
         {
           "wordIndex": 3919,
-          "start": 401.275,
-          "end": 401.493
+          "start": 176.551,
+          "end": 176.644
         },
         {
           "wordIndex": 3920,
-          "start": 401.566,
-          "end": 402.162
+          "start": 176.714,
+          "end": 176.992
         },
         {
           "wordIndex": 3921,
-          "start": 402.802,
-          "end": 403.789
+          "start": 177.062,
+          "end": 177.445
         },
         {
           "wordIndex": 3922,
-          "start": 403.842,
-          "end": 404.482
+          "start": 177.55,
+          "end": 177.747
         },
         {
           "wordIndex": 3923,
-          "start": 404.562,
-          "end": 404.962
+          "start": 177.828,
+          "end": 178.513
         },
         {
           "wordIndex": 3924,
-          "start": 405.042,
-          "end": 405.282
+          "start": 178.978,
+          "end": 179.094
         },
         {
           "wordIndex": 3925,
-          "start": 405.602,
-          "end": 406.242
+          "start": 179.152,
+          "end": 179.523
         },
         {
           "wordIndex": 3926,
-          "start": 406.312,
-          "end": 406.452
+          "start": 179.57,
+          "end": 179.628
         },
         {
           "wordIndex": 3927,
-          "start": 406.522,
-          "end": 406.732
+          "start": 179.674,
+          "end": 179.79
         },
         {
           "wordIndex": 3928,
-          "start": 406.802,
-          "end": 407.033
+          "start": 179.837,
+          "end": 180.197
         },
         {
           "wordIndex": 3929,
-          "start": 407.104,
-          "end": 407.318
+          "start": 180.232,
+          "end": 180.313
         },
         {
           "wordIndex": 3930,
-          "start": 407.389,
-          "end": 408.029
+          "start": 180.383,
+          "end": 180.859
         },
         {
           "wordIndex": 3931,
-          "start": 408.055,
-          "end": 408.342
+          "start": 181.044,
+          "end": 181.172
         },
         {
           "wordIndex": 3932,
-          "start": 408.602,
-          "end": 409.396
+          "start": 181.253,
+          "end": 181.52
         },
         {
           "wordIndex": 3933,
-          "start": 409.465,
-          "end": 409.789
+          "start": 181.578,
+          "end": 181.718
         },
         {
           "wordIndex": 3934,
-          "start": 409.975,
-          "end": 411.002
+          "start": 181.787,
+          "end": 182.124
         },
         {
           "wordIndex": 3935,
-          "start": 411.262,
-          "end": 411.602
+          "start": 182.194,
+          "end": 182.275
         },
         {
           "wordIndex": 3936,
-          "start": 411.622,
-          "end": 411.682
+          "start": 182.333,
+          "end": 182.507
         },
         {
           "wordIndex": 3937,
-          "start": 411.762,
-          "end": 412.242
+          "start": 182.565,
+          "end": 182.914
         },
         {
           "wordIndex": 3938,
-          "start": 412.282,
-          "end": 412.562
+          "start": 182.948,
+          "end": 183.076
         },
         {
           "wordIndex": 3939,
-          "start": 412.642,
-          "end": 412.855
+          "start": 183.146,
+          "end": 183.378
         },
         {
           "wordIndex": 3940,
-          "start": 412.909,
-          "end": 413.122
+          "start": 183.436,
+          "end": 183.587
         },
         {
           "wordIndex": 3941,
-          "start": 413.162,
-          "end": 413.802
+          "start": 183.633,
+          "end": 184.516
         },
         {
           "wordIndex": 3942,
-          "start": 414.135,
-          "end": 414.482
+          "start": 185.259,
+          "end": 185.862
         },
         {
           "wordIndex": 3943,
-          "start": 414.562,
-          "end": 414.882
+          "start": 185.932,
+          "end": 186.664
         },
         {
           "wordIndex": 3944,
-          "start": 415.042,
-          "end": 415.735
+          "start": 186.71,
+          "end": 186.919
         },
         {
           "wordIndex": 3945,
-          "start": 415.913,
-          "end": 416.624
+          "start": 186.989,
+          "end": 187.43
         },
         {
           "wordIndex": 3946,
-          "start": 416.801,
-          "end": 416.805
+          "start": 187.558,
+          "end": 187.79
         },
         {
           "wordIndex": 3947,
-          "start": 416.836,
-          "end": 416.932
+          "start": 187.86,
+          "end": 188.01
         },
         {
           "wordIndex": 3948,
-          "start": 416.964,
-          "end": 417.913
+          "start": 188.092,
+          "end": 188.51
         },
         {
           "wordIndex": 3949,
-          "start": 417.97,
-          "end": 418.084
+          "start": 188.579,
+          "end": 188.684
         },
         {
           "wordIndex": 3950,
-          "start": 418.135,
-          "end": 418.644
+          "start": 188.754,
+          "end": 189.485
         },
         {
           "wordIndex": 3951,
-          "start": 419.364,
-          "end": 420.204
+          "start": 189.949,
+          "end": 190.054
         },
         {
           "wordIndex": 3952,
-          "start": 420.484,
-          "end": 420.895
+          "start": 190.124,
+          "end": 190.518
         },
         {
           "wordIndex": 3953,
-          "start": 420.964,
-          "end": 421.337
+          "start": 190.6,
+          "end": 190.878
         },
         {
           "wordIndex": 3954,
-          "start": 421.524,
-          "end": 421.844
+          "start": 191.064,
+          "end": 191.482
         },
         {
           "wordIndex": 3955,
-          "start": 421.924,
-          "end": 422.9
+          "start": 191.644,
+          "end": 191.9
         },
         {
           "wordIndex": 3956,
-          "start": 422.932,
-          "end": 423.017
+          "start": 191.935,
+          "end": 192.016
         },
         {
           "wordIndex": 3957,
-          "start": 423.071,
-          "end": 423.231
+          "start": 192.051,
+          "end": 192.132
         },
         {
           "wordIndex": 3958,
-          "start": 423.337,
-          "end": 423.884
+          "start": 192.202,
+          "end": 192.434
         },
         {
           "wordIndex": 3959,
-          "start": 424.244,
-          "end": 424.724
+          "start": 192.504,
+          "end": 193.165
         },
         {
           "wordIndex": 3960,
-          "start": 424.804,
-          "end": 424.964
+          "start": 193.223,
+          "end": 193.676
         },
         {
           "wordIndex": 3961,
-          "start": 425.044,
-          "end": 425.244
+          "start": 193.932,
+          "end": 194.117
         },
         {
           "wordIndex": 3962,
-          "start": 425.304,
-          "end": 425.364
+          "start": 194.164,
+          "end": 194.187
         },
         {
           "wordIndex": 3963,
-          "start": 425.404,
-          "end": 425.828
+          "start": 194.257,
+          "end": 194.733
         },
         {
           "wordIndex": 3964,
-          "start": 425.892,
-          "end": 426.431
+          "start": 194.802,
+          "end": 195.511
         },
         {
           "wordIndex": 3965,
-          "start": 427.537,
-          "end": 427.804
+          "start": 196.254,
+          "end": 196.521
         },
         {
           "wordIndex": 3966,
-          "start": 427.864,
-          "end": 428.244
+          "start": 196.602,
+          "end": 197.008
         },
         {
           "wordIndex": 3967,
-          "start": 428.324,
-          "end": 428.724
+          "start": 197.055,
+          "end": 197.554
         },
         {
           "wordIndex": 3968,
-          "start": 428.884,
-          "end": 429.364
+          "start": 197.6,
+          "end": 198.007
         },
         {
           "wordIndex": 3969,
-          "start": 429.444,
-          "end": 429.716
+          "start": 198.065,
+          "end": 198.692
         },
         {
           "wordIndex": 3970,
-          "start": 430.004,
-          "end": 430.164
+          "start": 199.098,
+          "end": 199.203
         },
         {
           "wordIndex": 3971,
-          "start": 430.217,
-          "end": 430.516
+          "start": 199.261,
+          "end": 199.62
         },
         {
           "wordIndex": 3972,
-          "start": 430.564,
-          "end": 430.724
+          "start": 199.69,
+          "end": 199.957
         },
         {
           "wordIndex": 3973,
-          "start": 430.964,
-          "end": 431.484
+          "start": 200.143,
+          "end": 200.549
         },
         {
           "wordIndex": 3974,
-          "start": 431.764,
-          "end": 432.324
+          "start": 200.654,
+          "end": 200.851
         },
         {
           "wordIndex": 3975,
-          "start": 432.364,
-          "end": 432.548
+          "start": 200.932,
+          "end": 201.072
         },
         {
           "wordIndex": 3976,
-          "start": 432.612,
-          "end": 432.74
+          "start": 201.118,
+          "end": 201.211
         },
         {
           "wordIndex": 3977,
-          "start": 432.804,
-          "end": 433.044
+          "start": 201.269,
+          "end": 201.733
         },
         {
           "wordIndex": 3978,
-          "start": 433.044,
-          "end": 433.044
+          "start": 202.082,
+          "end": 202.14
         },
         {
           "wordIndex": 3979,
-          "start": 433.044,
-          "end": 433.364
+          "start": 202.209,
+          "end": 202.326
         },
         {
           "wordIndex": 3980,
-          "start": 433.444,
-          "end": 433.744
+          "start": 202.349,
+          "end": 202.5
         },
         {
           "wordIndex": 3981,
-          "start": 433.804,
-          "end": 434.224
+          "start": 202.535,
+          "end": 202.755
         },
         {
           "wordIndex": 3982,
-          "start": 434.324,
-          "end": 434.431
+          "start": 202.825,
+          "end": 203.034
         },
         {
           "wordIndex": 3983,
-          "start": 434.484,
-          "end": 434.644
+          "start": 203.103,
+          "end": 203.231
         },
         {
           "wordIndex": 3984,
-          "start": 434.697,
-          "end": 434.751
+          "start": 203.278,
+          "end": 203.301
         },
         {
           "wordIndex": 3985,
-          "start": 434.804,
-          "end": 434.964
+          "start": 203.359,
+          "end": 203.672
         },
         {
           "wordIndex": 3986,
-          "start": 435.724,
-          "end": 436.724
+          "start": 203.719,
+          "end": 204.032
         },
         {
           "wordIndex": 3987,
-          "start": 436.764,
-          "end": 436.98
+          "start": 204.09,
+          "end": 204.717
         },
         {
           "wordIndex": 3988,
-          "start": 437.012,
-          "end": 437.084
+          "start": 205.46,
+          "end": 205.588
         },
         {
           "wordIndex": 3989,
-          "start": 437.124,
-          "end": 437.956
+          "start": 205.657,
+          "end": 206.284
         },
         {
           "wordIndex": 3990,
-          "start": 438.004,
-          "end": 438.304
+          "start": 206.319,
+          "end": 206.4
         },
         {
           "wordIndex": 3991,
-          "start": 438.404,
-          "end": 438.644
+          "start": 206.482,
+          "end": 206.54
         },
         {
           "wordIndex": 3992,
-          "start": 438.764,
-          "end": 439.004
+          "start": 206.888,
+          "end": 207.039
         },
         {
           "wordIndex": 3993,
-          "start": 439.044,
-          "end": 439.3
+          "start": 207.062,
+          "end": 207.201
         },
         {
           "wordIndex": 3994,
-          "start": 439.364,
-          "end": 439.524
+          "start": 207.259,
+          "end": 207.492
         },
         {
           "wordIndex": 3995,
-          "start": 439.577,
-          "end": 439.829
+          "start": 207.515,
+          "end": 207.643
         },
         {
           "wordIndex": 3996,
-          "start": 439.902,
-          "end": 440.484
+          "start": 207.712,
+          "end": 208.2
         },
         {
           "wordIndex": 3997,
-          "start": 440.644,
-          "end": 441.071
+          "start": 208.455,
+          "end": 208.711
         },
         {
           "wordIndex": 3998,
-          "start": 441.124,
-          "end": 441.304
+          "start": 208.78,
+          "end": 209.558
         },
         {
           "wordIndex": 3999,
-          "start": 441.354,
-          "end": 441.504
+          "start": 209.965,
+          "end": 210.22
         },
         {
           "wordIndex": 4000,
-          "start": 441.554,
-          "end": 441.791
+          "start": 210.278,
+          "end": 210.348
         },
         {
           "wordIndex": 4001,
-          "start": 441.884,
-          "end": 442.244
+          "start": 210.394,
+          "end": 210.835
         },
         {
           "wordIndex": 4002,
-          "start": 442.324,
-          "end": 442.404
+          "start": 210.975,
+          "end": 211.056
         },
         {
           "wordIndex": 4003,
-          "start": 442.484,
-          "end": 442.704
+          "start": 211.137,
+          "end": 211.265
         },
         {
           "wordIndex": 4004,
-          "start": 442.764,
-          "end": 443.184
+          "start": 211.3,
+          "end": 211.718
         },
         {
           "wordIndex": 4005,
-          "start": 443.244,
-          "end": 444.084
+          "start": 211.776,
+          "end": 212.693
         },
         {
           "wordIndex": 4006,
-          "start": 444.564,
-          "end": 444.924
+          "start": 213.436,
+          "end": 213.749
         },
         {
           "wordIndex": 4007,
-          "start": 444.937,
-          "end": 445.684
+          "start": 213.784,
+          "end": 213.935
         },
         {
           "wordIndex": 4008,
-          "start": 445.924,
-          "end": 446.153
+          "start": 213.97,
+          "end": 214.144
         },
         {
           "wordIndex": 4009,
-          "start": 446.21,
-          "end": 446.267
+          "start": 214.179,
+          "end": 214.202
         },
         {
           "wordIndex": 4010,
-          "start": 446.324,
-          "end": 447.028
+          "start": 214.272,
+          "end": 214.771
         },
         {
           "wordIndex": 4011,
-          "start": 447.076,
-          "end": 447.924
+          "start": 214.806,
+          "end": 215.015
         },
         {
           "wordIndex": 4012,
-          "start": 448.004,
-          "end": 448.264
+          "start": 215.073,
+          "end": 215.537
         },
         {
           "wordIndex": 4013,
-          "start": 448.324,
-          "end": 448.564
+          "start": 215.595,
+          "end": 215.862
         },
         {
           "wordIndex": 4014,
-          "start": 448.644,
-          "end": 449.024
+          "start": 215.932,
+          "end": 216.234
         },
         {
           "wordIndex": 4015,
-          "start": 449.124,
-          "end": 449.324
+          "start": 216.28,
+          "end": 216.42
         },
         {
           "wordIndex": 4016,
-          "start": 449.384,
-          "end": 449.497
+          "start": 216.466,
+          "end": 216.547
         },
         {
           "wordIndex": 4017,
-          "start": 449.551,
-          "end": 450.284
+          "start": 216.582,
+          "end": 217.139
         },
         {
           "wordIndex": 4018,
-          "start": 450.324,
-          "end": 450.404
+          "start": 217.279,
+          "end": 217.441
         },
         {
           "wordIndex": 4019,
-          "start": 450.444,
-          "end": 450.524
+          "start": 217.511,
+          "end": 217.604
         },
         {
           "wordIndex": 4020,
-          "start": 450.564,
-          "end": 450.777
+          "start": 217.662,
+          "end": 217.732
         },
         {
           "wordIndex": 4021,
-          "start": 450.831,
-          "end": 451.316
+          "start": 217.79,
+          "end": 218.138
         },
         {
           "wordIndex": 4022,
-          "start": 451.412,
-          "end": 452.1
+          "start": 218.219,
+          "end": 219.02
         },
         {
           "wordIndex": 4023,
-          "start": 452.196,
-          "end": 452.388
+          "start": 219.078,
+          "end": 219.206
         },
         {
           "wordIndex": 4024,
-          "start": 452.484,
-          "end": 452.772
+          "start": 219.276,
+          "end": 219.485
         },
         {
           "wordIndex": 4025,
-          "start": 452.868,
-          "end": 453.524
+          "start": 219.554,
+          "end": 220.17
         },
         {
           "wordIndex": 4026,
-          "start": 453.604,
-          "end": 454.884
+          "start": 220.205,
+          "end": 221.319
         },
         {
           "wordIndex": 4027,
-          "start": 455.113,
-          "end": 455.215
+          "start": 221.865,
+          "end": 221.981
         },
         {
           "wordIndex": 4028,
-          "start": 455.25,
-          "end": 455.684
+          "start": 222.039,
+          "end": 222.434
         },
         {
           "wordIndex": 4029,
-          "start": 455.737,
-          "end": 455.844
+          "start": 222.492,
+          "end": 222.747
         },
         {
           "wordIndex": 4030,
-          "start": 455.89,
-          "end": 456.118
+          "start": 222.968,
+          "end": 223.444
         },
         {
           "wordIndex": 4031,
-          "start": 456.164,
-          "end": 456.284
+          "start": 223.549,
+          "end": 223.862
         },
         {
           "wordIndex": 4032,
-          "start": 456.324,
-          "end": 456.697
+          "start": 223.932,
+          "end": 224.292
         },
         {
           "wordIndex": 4033,
-          "start": 456.751,
-          "end": 456.964
+          "start": 224.361,
+          "end": 224.466
         },
         {
           "wordIndex": 4034,
-          "start": 457.124,
-          "end": 458.164
+          "start": 224.512,
+          "end": 225.116
         },
         {
           "wordIndex": 4035,
-          "start": 458.233,
-          "end": 458.37
+          "start": 225.151,
+          "end": 225.232
         },
         {
           "wordIndex": 4036,
-          "start": 458.438,
-          "end": 458.644
+          "start": 225.313,
+          "end": 225.534
         },
         {
           "wordIndex": 4037,
-          "start": 458.804,
-          "end": 460.484
+          "start": 225.603,
+          "end": 226.207
         },
         {
           "wordIndex": 4038,
-          "start": 460.504,
-          "end": 461.444
+          "start": 226.254,
+          "end": 227.67
         },
         {
           "wordIndex": 4039,
-          "start": 461.844,
-          "end": 461.964
+          "start": 227.972,
+          "end": 228.227
         },
         {
           "wordIndex": 4040,
-          "start": 462.004,
-          "end": 462.404
+          "start": 228.297,
+          "end": 228.622
         },
         {
           "wordIndex": 4041,
-          "start": 462.444,
-          "end": 462.644
+          "start": 228.657,
+          "end": 228.959
         },
         {
           "wordIndex": 4042,
-          "start": 462.697,
-          "end": 462.884
+          "start": 229.005,
+          "end": 229.145
         },
         {
           "wordIndex": 4043,
-          "start": 462.937,
-          "end": 463.071
+          "start": 229.179,
+          "end": 229.249
         },
         {
           "wordIndex": 4044,
-          "start": 463.097,
-          "end": 463.364
+          "start": 229.307,
+          "end": 229.458
         },
         {
           "wordIndex": 4045,
-          "start": 463.444,
-          "end": 463.986
+          "start": 229.481,
+          "end": 229.702
         },
         {
           "wordIndex": 4046,
-          "start": 464.128,
-          "end": 464.697
+          "start": 229.76,
+          "end": 230.085
         },
         {
           "wordIndex": 4047,
-          "start": 464.84,
-          "end": 465.124
+          "start": 230.131,
+          "end": 230.189
         },
         {
           "wordIndex": 4048,
-          "start": 465.164,
-          "end": 465.404
+          "start": 230.271,
+          "end": 230.549
         },
         {
           "wordIndex": 4049,
-          "start": 465.444,
-          "end": 465.572
+          "start": 230.584,
+          "end": 230.654
         },
         {
           "wordIndex": 4050,
-          "start": 465.62,
-          "end": 466.015
+          "start": 230.7,
+          "end": 231.443
         },
         {
           "wordIndex": 4051,
-          "start": 466.804,
-          "end": 466.996
+          "start": 231.908,
+          "end": 232.012
         },
         {
           "wordIndex": 4052,
-          "start": 467.06,
-          "end": 468.164
+          "start": 232.059,
+          "end": 232.43
         },
         {
           "wordIndex": 4053,
-          "start": 468.244,
-          "end": 468.404
+          "start": 232.488,
+          "end": 232.72
         },
         {
           "wordIndex": 4054,
-          "start": 468.484,
-          "end": 468.956
+          "start": 232.906,
+          "end": 233.336
         },
         {
           "wordIndex": 4055,
-          "start": 469.06,
-          "end": 469.684
+          "start": 233.591,
+          "end": 233.893
         },
         {
           "wordIndex": 4056,
-          "start": 469.764,
-          "end": 469.924
+          "start": 233.928,
+          "end": 234.021
         },
         {
           "wordIndex": 4057,
-          "start": 470.004,
-          "end": 470.132
+          "start": 234.067,
+          "end": 234.148
         },
         {
           "wordIndex": 4058,
-          "start": 470.196,
-          "end": 470.684
+          "start": 234.218,
+          "end": 234.45
         },
         {
           "wordIndex": 4059,
-          "start": 470.864,
-          "end": 471.604
+          "start": 234.52,
+          "end": 235.158
         },
         {
           "wordIndex": 4060,
-          "start": 471.684,
-          "end": 472.377
+          "start": 235.217,
+          "end": 235.658
         },
         {
           "wordIndex": 4061,
-          "start": 472.831,
-          "end": 473.524
+          "start": 235.843,
+          "end": 236.018
         },
         {
           "wordIndex": 4062,
-          "start": 473.644,
-          "end": 473.764
+          "start": 236.052,
+          "end": 236.075
         },
         {
           "wordIndex": 4063,
-          "start": 473.884,
-          "end": 474.484
+          "start": 236.133,
+          "end": 236.586
         },
         {
           "wordIndex": 4064,
-          "start": 474.564,
-          "end": 475.204
+          "start": 236.656,
+          "end": 237.364
         },
         {
           "wordIndex": 4065,
-          "start": 475.604,
-          "end": 475.764
+          "start": 237.77,
+          "end": 238.037
         },
         {
           "wordIndex": 4066,
-          "start": 475.864,
-          "end": 476.164
+          "start": 238.072,
+          "end": 238.142
         },
         {
           "wordIndex": 4067,
-          "start": 476.564,
-          "end": 476.724
+          "start": 238.188,
+          "end": 238.351
         },
         {
           "wordIndex": 4068,
-          "start": 476.791,
-          "end": 477.22
+          "start": 238.409,
+          "end": 238.711
         },
         {
           "wordIndex": 4069,
-          "start": 477.268,
-          "end": 477.364
+          "start": 238.757,
+          "end": 238.838
         },
         {
           "wordIndex": 4070,
-          "start": 477.431,
-          "end": 477.697
+          "start": 238.885,
+          "end": 239.291
         },
         {
           "wordIndex": 4071,
-          "start": 477.764,
-          "end": 478.031
+          "start": 239.372,
+          "end": 239.686
         },
         {
           "wordIndex": 4072,
-          "start": 478.084,
-          "end": 478.404
+          "start": 239.756,
+          "end": 240.232
         },
         {
           "wordIndex": 4073,
-          "start": 478.777,
-          "end": 478.937
+          "start": 240.487,
+          "end": 240.603
         },
         {
           "wordIndex": 4074,
-          "start": 478.991,
-          "end": 479.311
+          "start": 240.673,
+          "end": 241.068
         },
         {
           "wordIndex": 4075,
-          "start": 479.364,
-          "end": 479.444
+          "start": 241.149,
+          "end": 241.439
         },
         {
           "wordIndex": 4076,
-          "start": 479.484,
-          "end": 479.684
+          "start": 241.66,
+          "end": 242.066
         },
         {
           "wordIndex": 4077,
-          "start": 479.78,
-          "end": 479.972
+          "start": 242.17,
+          "end": 242.379
         },
         {
           "wordIndex": 4078,
-          "start": 480.068,
-          "end": 480.702
+          "start": 242.507,
+          "end": 243.088
         },
         {
           "wordIndex": 4079,
-          "start": 481.364,
-          "end": 481.684
+          "start": 243.633,
+          "end": 243.947
         },
         {
           "wordIndex": 4080,
-          "start": 481.764,
-          "end": 482.224
+          "start": 244.016,
+          "end": 244.411
         },
         {
           "wordIndex": 4081,
-          "start": 482.324,
-          "end": 482.804
+          "start": 244.458,
+          "end": 244.643
         },
         {
           "wordIndex": 4082,
-          "start": 482.964,
-          "end": 483.364
+          "start": 244.678,
+          "end": 244.876
         },
         {
           "wordIndex": 4083,
-          "start": 483.444,
-          "end": 483.817
+          "start": 244.945,
+          "end": 245.456
         },
         {
           "wordIndex": 4084,
-          "start": 484.9,
-          "end": 485.133
+          "start": 245.92,
+          "end": 246.037
         },
         {
           "wordIndex": 4085,
-          "start": 485.177,
-          "end": 485.4
+          "start": 246.095,
+          "end": 246.489
         },
         {
           "wordIndex": 4086,
-          "start": 485.444,
-          "end": 485.684
+          "start": 246.524,
+          "end": 246.605
         },
         {
           "wordIndex": 4087,
-          "start": 485.764,
-          "end": 486.484
+          "start": 246.675,
+          "end": 247.163
         },
         {
           "wordIndex": 4088,
-          "start": 486.544,
-          "end": 486.77
+          "start": 247.232,
+          "end": 247.616
         },
         {
           "wordIndex": 4089,
-          "start": 486.815,
-          "end": 486.953
+          "start": 247.674,
+          "end": 247.766
         },
         {
           "wordIndex": 4090,
-          "start": 486.998,
-          "end": 487.524
+          "start": 247.848,
+          "end": 248.208
         },
         {
           "wordIndex": 4091,
-          "start": 487.604,
-          "end": 487.924
+          "start": 248.266,
+          "end": 248.684
         },
         {
           "wordIndex": 4092,
-          "start": 488.004,
-          "end": 488.198
+          "start": 248.788,
+          "end": 248.939
         },
         {
           "wordIndex": 4093,
-          "start": 488.233,
-          "end": 488.404
+          "start": 249.02,
+          "end": 249.403
         },
         {
           "wordIndex": 4094,
-          "start": 488.436,
-          "end": 488.564
+          "start": 249.438,
+          "end": 249.612
         },
         {
           "wordIndex": 4095,
-          "start": 488.604,
-          "end": 488.844
+          "start": 249.67,
+          "end": 249.996
         },
         {
           "wordIndex": 4096,
-          "start": 488.904,
-          "end": 489.204
+          "start": 250.065,
+          "end": 250.274
         },
         {
           "wordIndex": 4097,
-          "start": 489.264,
-          "end": 489.444
+          "start": 250.332,
+          "end": 250.576
         },
         {
           "wordIndex": 4098,
-          "start": 489.484,
-          "end": 490.284
+          "start": 250.646,
+          "end": 251.04
         },
         {
           "wordIndex": 4099,
-          "start": 490.384,
-          "end": 490.756
+          "start": 251.122,
+          "end": 251.435
         },
         {
           "wordIndex": 4100,
-          "start": 490.852,
-          "end": 491.044
+          "start": 251.482,
+          "end": 251.551
         },
         {
           "wordIndex": 4101,
-          "start": 491.124,
-          "end": 491.964
+          "start": 251.621,
+          "end": 251.911
         },
         {
           "wordIndex": 4102,
-          "start": 492.084,
-          "end": 492.444
+          "start": 251.969,
+          "end": 252.526
         },
         {
           "wordIndex": 4103,
-          "start": 492.82,
-          "end": 493.076
+          "start": 252.991,
+          "end": 253.246
         },
         {
           "wordIndex": 4104,
-          "start": 493.172,
-          "end": 493.364
+          "start": 253.293,
+          "end": 253.444
         },
         {
           "wordIndex": 4105,
-          "start": 493.433,
-          "end": 493.638
+          "start": 253.571,
+          "end": 253.931
         },
         {
           "wordIndex": 4106,
-          "start": 493.707,
-          "end": 493.901
+          "start": 254.117,
+          "end": 254.43
         },
         {
           "wordIndex": 4107,
-          "start": 493.958,
-          "end": 494.244
+          "start": 254.535,
+          "end": 254.895
         },
         {
           "wordIndex": 4108,
-          "start": 494.313,
-          "end": 494.587
+          "start": 254.918,
+          "end": 255.046
         },
         {
           "wordIndex": 4109,
-          "start": 494.655,
-          "end": 495.324
+          "start": 255.104,
+          "end": 255.777
         },
         {
           "wordIndex": 4110,
-          "start": 495.364,
-          "end": 495.524
+          "start": 255.998,
+          "end": 256.218
         },
         {
           "wordIndex": 4111,
-          "start": 495.564,
-          "end": 495.924
+          "start": 256.276,
+          "end": 256.671
         },
         {
           "wordIndex": 4112,
-          "start": 496.004,
-          "end": 496.324
+          "start": 256.752,
+          "end": 257.112
         },
         {
           "wordIndex": 4113,
-          "start": 496.404,
-          "end": 496.546
+          "start": 257.368,
+          "end": 257.786
         },
         {
           "wordIndex": 4114,
-          "start": 496.608,
-          "end": 496.795
+          "start": 257.832,
+          "end": 257.948
         },
         {
           "wordIndex": 4115,
-          "start": 496.857,
-          "end": 497.194
+          "start": 258.018,
+          "end": 258.331
         },
         {
           "wordIndex": 4116,
-          "start": 497.244,
-          "end": 497.604
+          "start": 258.401,
+          "end": 259.005
         },
         {
           "wordIndex": 4117,
-          "start": 497.624,
-          "end": 497.664
+          "start": 259.225,
+          "end": 259.353
         },
         {
           "wordIndex": 4118,
-          "start": 497.684,
-          "end": 497.764
+          "start": 259.388,
+          "end": 259.423
         },
         {
           "wordIndex": 4119,
-          "start": 497.844,
-          "end": 498.217
+          "start": 259.492,
+          "end": 259.748
         },
         {
           "wordIndex": 4120,
-          "start": 498.244,
-          "end": 498.564
+          "start": 259.783,
+          "end": 259.887
         },
         {
           "wordIndex": 4121,
-          "start": 498.644,
-          "end": 498.884
+          "start": 259.933,
+          "end": 260.038
         },
         {
           "wordIndex": 4122,
-          "start": 498.964,
-          "end": 499.588
+          "start": 260.084,
+          "end": 260.502
         },
         {
           "wordIndex": 4123,
-          "start": 499.7,
-          "end": 500.064
+          "start": 260.607,
+          "end": 260.793
         },
         {
           "wordIndex": 4124,
-          "start": 500.204,
-          "end": 500.344
+          "start": 260.851,
+          "end": 260.874
         },
         {
           "wordIndex": 4125,
-          "start": 500.484,
-          "end": 500.644
+          "start": 260.944,
+          "end": 261.362
         },
         {
           "wordIndex": 4126,
-          "start": 500.684,
-          "end": 500.804
+          "start": 261.826,
+          "end": 261.988
         },
         {
           "wordIndex": 4127,
-          "start": 500.874,
-          "end": 500.944
+          "start": 262.023,
+          "end": 262.047
         },
         {
           "wordIndex": 4128,
-          "start": 501.014,
-          "end": 501.364
+          "start": 262.116,
+          "end": 262.72
         },
         {
           "wordIndex": 4129,
-          "start": 501.917,
-          "end": 502.171
+          "start": 263.463,
+          "end": 263.904
         },
         {
           "wordIndex": 4130,
-          "start": 502.222,
-          "end": 502.484
+          "start": 263.962,
+          "end": 264.252
         },
         {
           "wordIndex": 4131,
-          "start": 502.564,
-          "end": 502.861
+          "start": 264.334,
+          "end": 264.636
         },
         {
           "wordIndex": 4132,
-          "start": 502.93,
-          "end": 503.924
+          "start": 264.74,
+          "end": 265.17
         },
         {
           "wordIndex": 4133,
-          "start": 504.004,
-          "end": 504.484
+          "start": 265.228,
+          "end": 265.518
         },
         {
           "wordIndex": 4134,
-          "start": 504.564,
-          "end": 504.937
+          "start": 265.564,
+          "end": 266.214
         },
         {
           "wordIndex": 4135,
-          "start": 504.991,
-          "end": 505.344
+          "start": 266.435,
+          "end": 266.714
         },
         {
           "wordIndex": 4136,
-          "start": 505.364,
-          "end": 505.684
+          "start": 266.772,
+          "end": 266.946
         },
         {
           "wordIndex": 4137,
-          "start": 505.748,
-          "end": 505.812
+          "start": 267.004,
+          "end": 267.027
         },
         {
           "wordIndex": 4138,
-          "start": 505.876,
-          "end": 506.084
+          "start": 267.097,
+          "end": 267.492
         },
         {
           "wordIndex": 4139,
-          "start": 506.164,
-          "end": 506.484
+          "start": 267.526,
+          "end": 267.643
         },
         {
           "wordIndex": 4140,
-          "start": 506.554,
-          "end": 507.104
+          "start": 267.701,
+          "end": 268.177
         },
         {
           "wordIndex": 4141,
-          "start": 507.164,
-          "end": 507.878
+          "start": 268.246,
+          "end": 268.536
         },
         {
           "wordIndex": 4142,
-          "start": 507.947,
-          "end": 508.164
+          "start": 268.595,
+          "end": 268.711
         },
         {
           "wordIndex": 4143,
-          "start": 508.244,
-          "end": 508.364
+          "start": 268.745,
+          "end": 268.815
         },
         {
           "wordIndex": 4144,
-          "start": 508.404,
-          "end": 508.777
+          "start": 268.873,
+          "end": 269.256
         },
         {
           "wordIndex": 4145,
-          "start": 508.804,
-          "end": 508.884
+          "start": 269.303,
+          "end": 269.361
         },
         {
           "wordIndex": 4146,
-          "start": 508.924,
-          "end": 509.088
+          "start": 269.465,
+          "end": 269.651
         },
         {
           "wordIndex": 4147,
-          "start": 509.151,
-          "end": 509.4
+          "start": 269.709,
+          "end": 270.023
         },
         {
           "wordIndex": 4148,
-          "start": 509.462,
-          "end": 509.86
+          "start": 270.092,
+          "end": 270.406
         },
         {
           "wordIndex": 4149,
-          "start": 509.972,
-          "end": 510.582
+          "start": 270.475,
+          "end": 270.917
         },
         {
           "wordIndex": 4150,
-          "start": 510.751,
-          "end": 511.257
+          "start": 271.137,
+          "end": 271.323
         },
         {
           "wordIndex": 4151,
-          "start": 511.426,
-          "end": 511.904
+          "start": 271.393,
+          "end": 271.66
         },
         {
           "wordIndex": 4152,
-          "start": 511.964,
-          "end": 512.404
+          "start": 271.718,
+          "end": 272.205
         },
         {
           "wordIndex": 4153,
-          "start": 512.484,
-          "end": 513.364
+          "start": 272.24,
+          "end": 272.368
         },
         {
           "wordIndex": 4154,
-          "start": 513.604,
-          "end": 514.204
+          "start": 272.403,
+          "end": 272.948
         },
         {
           "wordIndex": 4155,
-          "start": 514.244,
-          "end": 514.524
+          "start": 273.006,
+          "end": 273.227
         },
         {
           "wordIndex": 4156,
-          "start": 514.624,
-          "end": 515.444
+          "start": 273.308,
+          "end": 273.877
         },
         {
           "wordIndex": 4157,
-          "start": 515.444,
-          "end": 515.444
+          "start": 274.179,
+          "end": 274.806
         },
         {
           "wordIndex": 4158,
-          "start": 515.444,
-          "end": 515.444
+          "start": 274.887,
+          "end": 275.386
         },
         {
           "wordIndex": 4159,
-          "start": 515.444,
-          "end": 515.444
+          "start": 275.456,
+          "end": 275.584
         },
         {
           "wordIndex": 4160,
-          "start": 515.444,
-          "end": 515.444
+          "start": 275.642,
+          "end": 275.711
         },
         {
           "wordIndex": 4161,
-          "start": 515.444,
-          "end": 515.444
+          "start": 275.77,
+          "end": 276.106
         },
         {
           "wordIndex": 4162,
-          "start": 515.444,
-          "end": 515.444
+          "start": 276.164,
+          "end": 276.42
         },
         {
           "wordIndex": 4163,
-          "start": 515.444,
-          "end": 515.444
+          "start": 276.466,
+          "end": 276.536
         },
         {
           "wordIndex": 4164,
-          "start": 515.444,
-          "end": 515.444
+          "start": 276.617,
+          "end": 276.849
         },
         {
           "wordIndex": 4165,
-          "start": 515.444,
-          "end": 515.444
+          "start": 276.954,
+          "end": 277.372
         },
         {
           "wordIndex": 4166,
-          "start": 515.444,
-          "end": 515.444
+          "start": 277.441,
+          "end": 277.871
         },
         {
           "wordIndex": 4167,
-          "start": 515.444,
-          "end": 515.444
+          "start": 278.126,
+          "end": 279.218
         },
         {
           "wordIndex": 4168,
-          "start": 515.444,
-          "end": 515.444
+          "start": 279.253,
+          "end": 279.357
         },
         {
           "wordIndex": 4169,
-          "start": 515.444,
-          "end": 515.444
+          "start": 279.415,
+          "end": 279.485
         },
         {
           "wordIndex": 4170,
-          "start": 515.444,
-          "end": 515.444
+          "start": 279.531,
+          "end": 279.984
         },
         {
           "wordIndex": 4171,
-          "start": 515.444,
-          "end": 515.444
+          "start": 280.03,
+          "end": 280.681
         },
         {
           "wordIndex": 4172,
-          "start": 515.444,
-          "end": 515.444
+          "start": 281.424,
+          "end": 281.749
         },
         {
           "wordIndex": 4173,
-          "start": 515.444,
-          "end": 515.444
+          "start": 281.83,
+          "end": 282.167
         },
         {
           "wordIndex": 4174,
-          "start": 515.444,
-          "end": 515.444
+          "start": 282.329,
+          "end": 282.968
         },
         {
           "wordIndex": 4175,
-          "start": 515.444,
-          "end": 515.444
+          "start": 282.991,
+          "end": 283.095
         },
         {
           "wordIndex": 4176,
-          "start": 515.444,
-          "end": 515.444
+          "start": 283.13,
+          "end": 283.293
         },
         {
           "wordIndex": 4177,
-          "start": 515.444,
-          "end": 515.444
+          "start": 283.351,
+          "end": 283.432
         },
         {
           "wordIndex": 4178,
-          "start": 515.444,
-          "end": 515.444
+          "start": 283.513,
+          "end": 284.256
         }
       ]
     },
@@ -20953,1307 +20953,1307 @@
       "file": "audio/narration-06.mp3",
       "startWord": 4179,
       "endWord": 4438,
-      "duration": 108.161,
+      "duration": 93.39,
       "wordTimings": [
         {
           "wordIndex": 4179,
           "start": 0,
-          "end": 0.08
+          "end": 0.174
         },
         {
           "wordIndex": 4180,
-          "start": 0.128,
-          "end": 0.32
+          "start": 0.221,
+          "end": 0.348
         },
         {
           "wordIndex": 4181,
-          "start": 0.4,
-          "end": 0.8
+          "start": 0.418,
+          "end": 0.766
         },
         {
           "wordIndex": 4182,
-          "start": 0.84,
-          "end": 0.96
+          "start": 0.824,
+          "end": 0.94
         },
         {
           "wordIndex": 4183,
-          "start": 1.013,
-          "end": 1.12
+          "start": 0.987,
+          "end": 1.068
         },
         {
           "wordIndex": 4184,
-          "start": 1.182,
-          "end": 1.68
+          "start": 1.138,
+          "end": 1.567
         },
         {
           "wordIndex": 4185,
-          "start": 1.728,
-          "end": 1.92
+          "start": 1.591,
+          "end": 1.718
         },
         {
           "wordIndex": 4186,
-          "start": 1.94,
-          "end": 2
+          "start": 1.776,
+          "end": 1.846
         },
         {
           "wordIndex": 4187,
-          "start": 2.062,
-          "end": 2.56
+          "start": 1.916,
+          "end": 2.357
         },
         {
           "wordIndex": 4188,
-          "start": 2.624,
-          "end": 2.88
+          "start": 2.403,
+          "end": 2.624
         },
         {
           "wordIndex": 4189,
-          "start": 2.944,
-          "end": 3.36
+          "start": 2.67,
+          "end": 3.158
         },
         {
           "wordIndex": 4190,
-          "start": 3.56,
-          "end": 4.16
+          "start": 3.564,
+          "end": 3.715
         },
         {
           "wordIndex": 4191,
-          "start": 4.192,
-          "end": 4.32
+          "start": 3.762,
+          "end": 3.901
         },
         {
           "wordIndex": 4192,
-          "start": 4.38,
-          "end": 4.56
+          "start": 3.947,
+          "end": 4.075
         },
         {
           "wordIndex": 4193,
-          "start": 4.587,
-          "end": 4.64
+          "start": 4.122,
+          "end": 4.203
         },
         {
           "wordIndex": 4194,
-          "start": 4.72,
-          "end": 5.12
+          "start": 4.261,
+          "end": 4.818
         },
         {
           "wordIndex": 4195,
-          "start": 6.533,
-          "end": 6.8
+          "start": 5.561,
+          "end": 5.851
         },
         {
           "wordIndex": 4196,
-          "start": 6.864,
-          "end": 7.28
+          "start": 6.037,
+          "end": 6.42
         },
         {
           "wordIndex": 4197,
-          "start": 7.56,
-          "end": 8
+          "start": 6.455,
+          "end": 6.745
         },
         {
           "wordIndex": 4198,
-          "start": 8.08,
-          "end": 8.24
+          "start": 6.792,
+          "end": 6.873
         },
         {
           "wordIndex": 4199,
-          "start": 8.347,
-          "end": 8.56
+          "start": 6.92,
+          "end": 7.001
         },
         {
           "wordIndex": 4200,
-          "start": 8.64,
-          "end": 8.88
+          "start": 7.07,
+          "end": 7.268
         },
         {
           "wordIndex": 4201,
-          "start": 8.98,
-          "end": 9.6
+          "start": 7.326,
+          "end": 7.906
         },
         {
           "wordIndex": 4202,
-          "start": 9.696,
-          "end": 10.08
+          "start": 7.953,
+          "end": 8.371
         },
         {
           "wordIndex": 4203,
-          "start": 10.14,
-          "end": 10.32
+          "start": 8.533,
+          "end": 8.696
         },
         {
           "wordIndex": 4204,
-          "start": 10.36,
-          "end": 10.4
+          "start": 8.731,
+          "end": 8.754
         },
         {
           "wordIndex": 4205,
-          "start": 10.453,
-          "end": 10.88
+          "start": 8.812,
+          "end": 9.242
         },
         {
           "wordIndex": 4206,
-          "start": 10.96,
-          "end": 11.6
+          "start": 9.311,
+          "end": 9.996
         },
         {
           "wordIndex": 4207,
-          "start": 11.98,
-          "end": 13.2
+          "start": 10.461,
+          "end": 10.844
         },
         {
           "wordIndex": 4208,
-          "start": 13.264,
-          "end": 13.52
+          "start": 10.913,
+          "end": 11.192
         },
         {
           "wordIndex": 4209,
-          "start": 13.6,
-          "end": 13.92
+          "start": 11.262,
+          "end": 11.564
         },
         {
           "wordIndex": 4210,
-          "start": 14.027,
-          "end": 14.56
+          "start": 11.645,
+          "end": 12.086
         },
         {
           "wordIndex": 4211,
-          "start": 14.66,
-          "end": 14.96
+          "start": 12.132,
+          "end": 12.225
         },
         {
           "wordIndex": 4212,
-          "start": 15.008,
-          "end": 15.2
+          "start": 12.295,
+          "end": 12.469
         },
         {
           "wordIndex": 4213,
-          "start": 15.387,
-          "end": 15.76
+          "start": 12.539,
+          "end": 12.794
         },
         {
           "wordIndex": 4214,
-          "start": 15.83,
-          "end": 16.32
+          "start": 12.933,
+          "end": 13.479
         },
         {
           "wordIndex": 4215,
-          "start": 16.507,
-          "end": 16.88
+          "start": 13.699,
+          "end": 13.781
         },
         {
           "wordIndex": 4216,
-          "start": 16.92,
-          "end": 17.04
+          "start": 14.326,
+          "end": 14.466
         },
         {
           "wordIndex": 4217,
-          "start": 17.088,
-          "end": 17.28
+          "start": 14.524,
+          "end": 14.744
         },
         {
           "wordIndex": 4218,
-          "start": 17.307,
-          "end": 17.36
+          "start": 14.814,
+          "end": 14.895
         },
         {
           "wordIndex": 4219,
-          "start": 17.429,
-          "end": 18.48
+          "start": 14.965,
+          "end": 15.87
         },
         {
           "wordIndex": 4220,
-          "start": 18.64,
-          "end": 19.6
+          "start": 16.613,
+          "end": 16.938
         },
         {
           "wordIndex": 4221,
-          "start": 19.64,
-          "end": 19.76
+          "start": 16.997,
+          "end": 17.101
         },
         {
           "wordIndex": 4222,
-          "start": 19.84,
-          "end": 20.32
+          "start": 17.171,
+          "end": 17.496
         },
         {
           "wordIndex": 4223,
-          "start": 20.36,
-          "end": 20.48
+          "start": 17.542,
+          "end": 17.647
         },
         {
           "wordIndex": 4224,
-          "start": 20.547,
-          "end": 20.88
+          "start": 17.716,
+          "end": 18.088
         },
         {
           "wordIndex": 4225,
-          "start": 21,
-          "end": 21.36
+          "start": 18.274,
+          "end": 18.436
         },
         {
           "wordIndex": 4226,
-          "start": 21.392,
-          "end": 21.76
+          "start": 18.494,
+          "end": 18.634
         },
         {
           "wordIndex": 4227,
-          "start": 21.827,
-          "end": 21.827
+          "start": 18.68,
+          "end": 18.75
         },
         {
           "wordIndex": 4228,
-          "start": 21.827,
-          "end": 22.16
+          "start": 18.796,
+          "end": 19.098
         },
         {
           "wordIndex": 4229,
-          "start": 22.18,
-          "end": 22.24
+          "start": 19.133,
+          "end": 19.226
         },
         {
           "wordIndex": 4230,
-          "start": 22.352,
-          "end": 22.88
+          "start": 19.272,
+          "end": 19.864
         },
         {
           "wordIndex": 4231,
-          "start": 23.088,
-          "end": 23.92
+          "start": 20.503,
+          "end": 20.793
         },
         {
           "wordIndex": 4232,
-          "start": 24.107,
-          "end": 24.48
+          "start": 20.863,
+          "end": 21.165
         },
         {
           "wordIndex": 4233,
-          "start": 24.55,
-          "end": 25.04
+          "start": 21.385,
+          "end": 21.977
         },
         {
           "wordIndex": 4234,
-          "start": 25.104,
-          "end": 25.36
+          "start": 22.163,
+          "end": 22.488
         },
         {
           "wordIndex": 4235,
-          "start": 25.4,
-          "end": 25.52
+          "start": 22.534,
+          "end": 22.627
         },
         {
           "wordIndex": 4236,
-          "start": 25.54,
-          "end": 25.6
+          "start": 22.662,
+          "end": 22.732
         },
         {
           "wordIndex": 4237,
-          "start": 25.664,
-          "end": 25.92
+          "start": 22.79,
+          "end": 23.069
         },
         {
           "wordIndex": 4238,
-          "start": 25.947,
-          "end": 26
+          "start": 23.092,
+          "end": 23.15
         },
         {
           "wordIndex": 4239,
-          "start": 26.04,
-          "end": 26.16
+          "start": 23.185,
+          "end": 23.254
         },
         {
           "wordIndex": 4240,
-          "start": 26.24,
-          "end": 26.48
+          "start": 23.336,
+          "end": 23.533
         },
         {
           "wordIndex": 4241,
-          "start": 26.544,
-          "end": 26.8
+          "start": 23.603,
+          "end": 23.881
         },
         {
           "wordIndex": 4242,
-          "start": 26.88,
-          "end": 27.52
+          "start": 23.939,
+          "end": 24.415
         },
         {
           "wordIndex": 4243,
-          "start": 27.552,
-          "end": 27.68
+          "start": 24.601,
+          "end": 24.764
         },
         {
           "wordIndex": 4244,
-          "start": 27.733,
-          "end": 27.84
+          "start": 24.81,
+          "end": 24.88
         },
         {
           "wordIndex": 4245,
-          "start": 27.88,
-          "end": 28
+          "start": 24.926,
+          "end": 25.019
         },
         {
           "wordIndex": 4246,
-          "start": 28.04,
-          "end": 28.24
+          "start": 25.077,
+          "end": 25.298
         },
         {
           "wordIndex": 4247,
-          "start": 28.293,
-          "end": 28.72
+          "start": 25.379,
+          "end": 25.797
         },
         {
           "wordIndex": 4248,
-          "start": 28.752,
-          "end": 28.88
+          "start": 25.832,
+          "end": 25.959
         },
         {
           "wordIndex": 4249,
-          "start": 28.9,
-          "end": 28.96
+          "start": 26.006,
+          "end": 26.076
         },
         {
           "wordIndex": 4250,
-          "start": 29.04,
-          "end": 29.36
+          "start": 26.122,
+          "end": 26.424
         },
         {
           "wordIndex": 4251,
-          "start": 29.4,
-          "end": 29.44
+          "start": 26.459,
+          "end": 26.493
         },
         {
           "wordIndex": 4252,
-          "start": 29.504,
-          "end": 30.16
+          "start": 26.575,
+          "end": 27.202
         },
         {
           "wordIndex": 4253,
-          "start": 30.249,
-          "end": 30.96
+          "start": 27.271,
+          "end": 27.736
         },
         {
           "wordIndex": 4254,
-          "start": 31,
-          "end": 31.16
+          "start": 27.782,
+          "end": 28.641
         },
         {
           "wordIndex": 4255,
-          "start": 31.17,
-          "end": 31.2
+          "start": 28.641,
+          "end": 28.92
         },
         {
           "wordIndex": 4256,
-          "start": 31.262,
-          "end": 31.76
+          "start": 28.978,
+          "end": 29.372
         },
         {
           "wordIndex": 4257,
-          "start": 31.813,
-          "end": 32.08
+          "start": 29.454,
+          "end": 29.697
         },
         {
           "wordIndex": 4258,
-          "start": 32.171,
-          "end": 32.72
+          "start": 29.756,
+          "end": 30.324
         },
         {
           "wordIndex": 4259,
-          "start": 32.8,
-          "end": 33.04
+          "start": 30.452,
+          "end": 30.591
         },
         {
           "wordIndex": 4260,
-          "start": 33.08,
-          "end": 33.28
+          "start": 30.649,
+          "end": 30.87
         },
         {
           "wordIndex": 4261,
-          "start": 33.3,
-          "end": 33.36
+          "start": 30.893,
+          "end": 30.963
         },
         {
           "wordIndex": 4262,
-          "start": 33.413,
-          "end": 33.84
+          "start": 31.009,
+          "end": 31.346
         },
         {
           "wordIndex": 4263,
-          "start": 33.867,
-          "end": 33.92
+          "start": 31.393,
+          "end": 31.439
         },
         {
           "wordIndex": 4264,
-          "start": 33.96,
-          "end": 34
+          "start": 31.485,
+          "end": 31.509
         },
         {
           "wordIndex": 4265,
-          "start": 34.062,
-          "end": 34.56
+          "start": 31.555,
+          "end": 32.182
         },
         {
           "wordIndex": 4266,
-          "start": 34.624,
-          "end": 34.88
+          "start": 32.368,
+          "end": 32.519
         },
         {
           "wordIndex": 4267,
-          "start": 34.96,
-          "end": 35.2
+          "start": 32.554,
+          "end": 32.635
         },
         {
           "wordIndex": 4268,
-          "start": 35.253,
-          "end": 35.36
+          "start": 32.681,
+          "end": 32.739
         },
         {
           "wordIndex": 4269,
-          "start": 35.6,
-          "end": 36.08
+          "start": 32.844,
+          "end": 33.169
         },
         {
           "wordIndex": 4270,
-          "start": 36.22,
-          "end": 36.64
+          "start": 33.389,
+          "end": 33.633
         },
         {
           "wordIndex": 4271,
-          "start": 36.704,
-          "end": 36.96
+          "start": 33.715,
+          "end": 34.04
         },
         {
           "wordIndex": 4272,
-          "start": 36.992,
-          "end": 37.12
+          "start": 34.086,
+          "end": 34.225
         },
         {
           "wordIndex": 4273,
-          "start": 37.16,
-          "end": 37.28
+          "start": 34.272,
+          "end": 34.376
         },
         {
           "wordIndex": 4274,
-          "start": 37.32,
-          "end": 37.36
+          "start": 34.423,
+          "end": 34.458
         },
         {
           "wordIndex": 4275,
-          "start": 37.46,
-          "end": 37.76
+          "start": 34.516,
+          "end": 34.748
         },
         {
           "wordIndex": 4276,
-          "start": 37.813,
-          "end": 37.92
+          "start": 34.817,
+          "end": 34.876
         },
         {
           "wordIndex": 4277,
-          "start": 38.04,
-          "end": 38.48
+          "start": 34.945,
+          "end": 35.561
         },
         {
           "wordIndex": 4278,
-          "start": 50.13,
-          "end": 50.16
+          "start": 36.42,
+          "end": 36.663
         },
         {
           "wordIndex": 4279,
-          "start": 50.173,
-          "end": 50.24
+          "start": 36.733,
+          "end": 36.93
         },
         {
           "wordIndex": 4280,
-          "start": 50.264,
-          "end": 50.48
+          "start": 36.977,
+          "end": 37.406
         },
         {
           "wordIndex": 4281,
-          "start": 50.5,
-          "end": 50.56
+          "start": 37.441,
+          "end": 37.534
         },
         {
           "wordIndex": 4282,
-          "start": 50.576,
-          "end": 50.64
+          "start": 37.569,
+          "end": 37.708
         },
         {
           "wordIndex": 4283,
-          "start": 50.658,
-          "end": 50.84
+          "start": 37.755,
+          "end": 38.3
         },
         {
           "wordIndex": 4284,
-          "start": 50.85,
-          "end": 50.88
+          "start": 38.463,
+          "end": 38.591
         },
         {
           "wordIndex": 4285,
-          "start": 50.893,
-          "end": 50.96
+          "start": 38.637,
+          "end": 38.904
         },
         {
           "wordIndex": 4286,
-          "start": 50.992,
-          "end": 51.12
+          "start": 38.962,
+          "end": 39.09
         },
         {
           "wordIndex": 4287,
-          "start": 51.136,
-          "end": 51.2
+          "start": 39.171,
+          "end": 39.427
         },
         {
           "wordIndex": 4288,
-          "start": 51.218,
-          "end": 51.36
+          "start": 39.473,
+          "end": 39.821
         },
         {
           "wordIndex": 4289,
-          "start": 51.38,
-          "end": 51.44
+          "start": 39.879,
+          "end": 39.984
         },
         {
           "wordIndex": 4290,
-          "start": 51.458,
-          "end": 51.6
+          "start": 40.042,
+          "end": 40.344
         },
         {
           "wordIndex": 4291,
-          "start": 51.632,
-          "end": 51.8
+          "start": 40.39,
+          "end": 41.04
         },
         {
           "wordIndex": 4292,
-          "start": 51.813,
-          "end": 51.84
+          "start": 41.296,
+          "end": 41.621
         },
         {
           "wordIndex": 4293,
-          "start": 51.853,
-          "end": 51.92
+          "start": 41.807,
+          "end": 41.981
         },
         {
           "wordIndex": 4294,
-          "start": 51.94,
-          "end": 52
+          "start": 42.016,
+          "end": 42.132
         },
         {
           "wordIndex": 4295,
-          "start": 52.02,
-          "end": 52.16
+          "start": 42.19,
+          "end": 42.503
         },
         {
           "wordIndex": 4296,
-          "start": 52.18,
-          "end": 52.24
+          "start": 42.538,
+          "end": 42.631
         },
         {
           "wordIndex": 4297,
-          "start": 52.257,
-          "end": 52.64
+          "start": 42.689,
+          "end": 43.606
         },
         {
           "wordIndex": 4298,
-          "start": 52.76,
-          "end": 52.86
+          "start": 44.245,
+          "end": 44.5
         },
         {
           "wordIndex": 4299,
-          "start": 52.92,
-          "end": 53.432
+          "start": 44.57,
+          "end": 44.999
         },
         {
           "wordIndex": 4300,
-          "start": 53.488,
-          "end": 53.728
+          "start": 45.057,
+          "end": 45.441
         },
         {
           "wordIndex": 4301,
-          "start": 53.792,
-          "end": 53.96
+          "start": 45.51,
+          "end": 45.65
         },
         {
           "wordIndex": 4302,
-          "start": 54,
-          "end": 54.176
+          "start": 45.708,
+          "end": 45.893
         },
         {
           "wordIndex": 4303,
-          "start": 54.224,
-          "end": 54.32
+          "start": 45.928,
+          "end": 45.986
         },
         {
           "wordIndex": 4304,
-          "start": 54.373,
-          "end": 54.427
+          "start": 46.068,
+          "end": 46.102
         },
         {
           "wordIndex": 4305,
-          "start": 54.48,
-          "end": 54.76
+          "start": 46.172,
+          "end": 46.486
         },
         {
           "wordIndex": 4306,
-          "start": 54.827,
-          "end": 55.16
+          "start": 46.567,
+          "end": 47.124
         },
         {
           "wordIndex": 4307,
-          "start": 55.26,
-          "end": 56.48
+          "start": 47.67,
+          "end": 47.983
         },
         {
           "wordIndex": 4308,
-          "start": 56.52,
-          "end": 56.64
+          "start": 48.03,
+          "end": 48.134
         },
         {
           "wordIndex": 4309,
-          "start": 56.688,
-          "end": 56.88
+          "start": 48.192,
+          "end": 48.366
         },
         {
           "wordIndex": 4310,
-          "start": 56.907,
-          "end": 56.96
+          "start": 48.39,
+          "end": 48.436
         },
         {
           "wordIndex": 4311,
-          "start": 57.013,
-          "end": 57.12
+          "start": 48.494,
+          "end": 48.575
         },
         {
           "wordIndex": 4312,
-          "start": 57.176,
-          "end": 57.76
+          "start": 48.61,
+          "end": 49.33
         },
         {
           "wordIndex": 4313,
-          "start": 57.816,
-          "end": 57.84
+          "start": 49.969,
+          "end": 50.108
         },
         {
           "wordIndex": 4314,
-          "start": 58.1,
-          "end": 58.88
+          "start": 50.154,
+          "end": 50.282
         },
         {
           "wordIndex": 4315,
-          "start": 58.92,
-          "end": 59.328
+          "start": 50.352,
+          "end": 50.746
         },
         {
           "wordIndex": 4316,
-          "start": 59.376,
-          "end": 59.6
+          "start": 50.793,
+          "end": 51.234
         },
         {
           "wordIndex": 4317,
-          "start": 59.68,
-          "end": 59.92
+          "start": 51.362,
+          "end": 51.489
         },
         {
           "wordIndex": 4318,
-          "start": 60.02,
-          "end": 60.32
+          "start": 51.547,
+          "end": 51.71
         },
         {
           "wordIndex": 4319,
-          "start": 60.38,
-          "end": 60.5
+          "start": 51.745,
+          "end": 51.803
         },
         {
           "wordIndex": 4320,
-          "start": 60.56,
-          "end": 60.613
+          "start": 51.873,
+          "end": 51.965
         },
         {
           "wordIndex": 4321,
-          "start": 60.64,
-          "end": 60.8
+          "start": 52.012,
+          "end": 52.511
         },
         {
           "wordIndex": 4322,
-          "start": 60.858,
-          "end": 61.44
+          "start": 52.569,
+          "end": 53.173
         },
         {
           "wordIndex": 4323,
-          "start": 61.498,
-          "end": 61.673
+          "start": 53.243,
+          "end": 53.37
         },
         {
           "wordIndex": 4324,
-          "start": 61.731,
-          "end": 61.905
+          "start": 53.428,
+          "end": 53.591
         },
         {
           "wordIndex": 4325,
-          "start": 61.964,
-          "end": 62.6
+          "start": 53.637,
+          "end": 54.009
         },
         {
           "wordIndex": 4326,
-          "start": 62.66,
-          "end": 62.764
+          "start": 54.067,
+          "end": 54.136
         },
         {
           "wordIndex": 4327,
-          "start": 62.809,
-          "end": 62.942
+          "start": 54.195,
+          "end": 54.311
         },
         {
           "wordIndex": 4328,
-          "start": 62.987,
-          "end": 63.689
+          "start": 54.38,
+          "end": 54.763
         },
         {
           "wordIndex": 4329,
-          "start": 63.733,
-          "end": 64.503
+          "start": 54.81,
+          "end": 55.75
         },
         {
           "wordIndex": 4330,
-          "start": 64.96,
-          "end": 65.154
+          "start": 56.296,
+          "end": 56.377
         },
         {
           "wordIndex": 4331,
-          "start": 65.349,
-          "end": 66.322
+          "start": 56.447,
+          "end": 56.876
         },
         {
           "wordIndex": 4332,
-          "start": 66.374,
-          "end": 66.881
+          "start": 56.923,
+          "end": 57.26
         },
         {
           "wordIndex": 4333,
-          "start": 66.934,
-          "end": 67.094
+          "start": 57.306,
+          "end": 57.411
         },
         {
           "wordIndex": 4334,
-          "start": 67.148,
-          "end": 67.425
+          "start": 57.446,
+          "end": 57.736
         },
         {
           "wordIndex": 4335,
-          "start": 67.489,
-          "end": 67.617
+          "start": 57.782,
+          "end": 57.852
         },
         {
           "wordIndex": 4336,
-          "start": 67.681,
-          "end": 68.401
+          "start": 57.922,
+          "end": 58.142
         },
         {
           "wordIndex": 4337,
-          "start": 68.428,
-          "end": 68.673
+          "start": 58.189,
+          "end": 58.63
         },
         {
           "wordIndex": 4338,
-          "start": 69.041,
-          "end": 69.281
+          "start": 59.268,
+          "end": 59.408
         },
         {
           "wordIndex": 4339,
-          "start": 69.313,
-          "end": 69.377
+          "start": 59.466,
+          "end": 59.524
         },
         {
           "wordIndex": 4340,
-          "start": 69.409,
-          "end": 70.001
+          "start": 59.57,
+          "end": 59.768
         },
         {
           "wordIndex": 4341,
-          "start": 70.051,
-          "end": 70.151
+          "start": 59.802,
+          "end": 59.861
         },
         {
           "wordIndex": 4342,
-          "start": 70.201,
-          "end": 70.401
+          "start": 59.93,
+          "end": 60.244
         },
         {
           "wordIndex": 4343,
-          "start": 70.441,
-          "end": 70.614
+          "start": 60.278,
+          "end": 60.395
         },
         {
           "wordIndex": 4344,
-          "start": 70.668,
-          "end": 70.781
+          "start": 60.441,
+          "end": 60.696
         },
         {
           "wordIndex": 4345,
-          "start": 70.841,
-          "end": 71.221
+          "start": 60.882,
+          "end": 61.114
         },
         {
           "wordIndex": 4346,
-          "start": 71.241,
-          "end": 71.337
+          "start": 61.149,
+          "end": 61.242
         },
         {
           "wordIndex": 4347,
-          "start": 71.393,
-          "end": 71.505
+          "start": 61.289,
+          "end": 61.335
         },
         {
           "wordIndex": 4348,
-          "start": 71.561,
-          "end": 71.894
+          "start": 61.405,
+          "end": 61.811
         },
         {
           "wordIndex": 4349,
-          "start": 71.921,
-          "end": 72.161
+          "start": 61.846,
+          "end": 61.915
         },
         {
           "wordIndex": 4350,
-          "start": 72.241,
-          "end": 73.325
+          "start": 61.962,
+          "end": 62.357
         },
         {
           "wordIndex": 4351,
-          "start": 73.477,
-          "end": 73.779
+          "start": 62.392,
+          "end": 62.438
         },
         {
           "wordIndex": 4352,
-          "start": 73.93,
-          "end": 74.241
+          "start": 62.496,
+          "end": 63.216
         },
         {
           "wordIndex": 4353,
-          "start": 74.481,
-          "end": 74.661
+          "start": 63.622,
+          "end": 63.761
         },
         {
           "wordIndex": 4354,
-          "start": 74.721,
-          "end": 75.161
+          "start": 63.796,
+          "end": 63.936
         },
         {
           "wordIndex": 4355,
-          "start": 75.261,
-          "end": 75.414
+          "start": 63.97,
+          "end": 64.063
         },
         {
           "wordIndex": 4356,
-          "start": 75.441,
-          "end": 75.633
+          "start": 64.133,
+          "end": 64.284
         },
         {
           "wordIndex": 4357,
-          "start": 75.697,
-          "end": 75.948
+          "start": 64.388,
+          "end": 64.516
         },
         {
           "wordIndex": 4358,
-          "start": 76.134,
-          "end": 76.401
+          "start": 64.597,
+          "end": 64.876
         },
         {
           "wordIndex": 4359,
-          "start": 76.441,
-          "end": 76.521
+          "start": 64.934,
+          "end": 65.004
         },
         {
           "wordIndex": 4360,
-          "start": 76.561,
-          "end": 76.753
+          "start": 65.05,
+          "end": 65.201
         },
         {
           "wordIndex": 4361,
-          "start": 76.801,
-          "end": 76.841
+          "start": 65.282,
+          "end": 65.584
         },
         {
           "wordIndex": 4362,
-          "start": 76.861,
-          "end": 77.155
+          "start": 65.77,
+          "end": 65.956
         },
         {
           "wordIndex": 4363,
-          "start": 77.224,
-          "end": 77.414
+          "start": 66.002,
+          "end": 66.165
         },
         {
           "wordIndex": 4364,
-          "start": 77.441,
-          "end": 77.501
+          "start": 66.188,
+          "end": 66.269
         },
         {
           "wordIndex": 4365,
-          "start": 77.521,
-          "end": 77.983
+          "start": 66.339,
+          "end": 66.641
         },
         {
           "wordIndex": 4366,
-          "start": 78.045,
-          "end": 78.17
+          "start": 66.699,
+          "end": 66.745
         },
         {
           "wordIndex": 4367,
-          "start": 78.232,
-          "end": 78.419
+          "start": 66.792,
+          "end": 66.861
         },
         {
           "wordIndex": 4368,
-          "start": 78.481,
-          "end": 79.681
+          "start": 66.908,
+          "end": 67.14
         },
         {
           "wordIndex": 4369,
-          "start": 79.761,
-          "end": 80.661
+          "start": 67.198,
+          "end": 67.837
         },
         {
           "wordIndex": 4370,
-          "start": 80.731,
-          "end": 80.881
+          "start": 68.475,
+          "end": 68.614
         },
         {
           "wordIndex": 4371,
-          "start": 80.961,
-          "end": 81.468
+          "start": 68.684,
+          "end": 69.172
         },
         {
           "wordIndex": 4372,
-          "start": 81.521,
-          "end": 81.601
+          "start": 69.334,
+          "end": 69.462
         },
         {
           "wordIndex": 4373,
-          "start": 81.681,
-          "end": 82.161
+          "start": 69.532,
+          "end": 69.95
         },
         {
           "wordIndex": 4374,
-          "start": 82.241,
-          "end": 82.401
+          "start": 70.019,
+          "end": 70.066
         },
         {
           "wordIndex": 4375,
-          "start": 82.481,
-          "end": 82.641
+          "start": 70.147,
+          "end": 70.286
         },
         {
           "wordIndex": 4376,
-          "start": 82.721,
-          "end": 83.073
+          "start": 70.344,
+          "end": 71.064
         },
         {
           "wordIndex": 4377,
-          "start": 83.121,
-          "end": 83.217
+          "start": 71.099,
+          "end": 71.145
         },
         {
           "wordIndex": 4378,
-          "start": 83.265,
-          "end": 83.441
+          "start": 71.18,
+          "end": 71.354
         },
         {
           "wordIndex": 4379,
-          "start": 83.505,
-          "end": 83.761
+          "start": 71.389,
+          "end": 71.563
         },
         {
           "wordIndex": 4380,
-          "start": 83.961,
-          "end": 84.161
+          "start": 71.598,
+          "end": 71.807
         },
         {
           "wordIndex": 4381,
-          "start": 84.401,
-          "end": 84.841
+          "start": 71.842,
+          "end": 71.9
         },
         {
           "wordIndex": 4382,
-          "start": 85.061,
-          "end": 85.481
+          "start": 71.946,
+          "end": 72.19
         },
         {
           "wordIndex": 4383,
-          "start": 85.531,
-          "end": 85.734
+          "start": 72.225,
+          "end": 72.747
         },
         {
           "wordIndex": 4384,
-          "start": 86.108,
-          "end": 86.25
+          "start": 73.386,
+          "end": 73.525
         },
         {
           "wordIndex": 4385,
-          "start": 86.294,
-          "end": 87.041
+          "start": 73.572,
+          "end": 73.85
         },
         {
           "wordIndex": 4386,
-          "start": 87.201,
-          "end": 87.701
+          "start": 73.897,
+          "end": 74.338
         },
         {
           "wordIndex": 4387,
-          "start": 87.731,
-          "end": 88.257
+          "start": 74.384,
+          "end": 74.907
         },
         {
           "wordIndex": 4388,
-          "start": 88.321,
-          "end": 88.428
+          "start": 75.035,
+          "end": 75.383
         },
         {
           "wordIndex": 4389,
-          "start": 88.481,
-          "end": 88.897
+          "start": 75.569,
+          "end": 75.812
         },
         {
           "wordIndex": 4390,
-          "start": 88.961,
-          "end": 89.569
+          "start": 75.859,
+          "end": 75.952
         },
         {
           "wordIndex": 4391,
-          "start": 89.793,
-          "end": 90.337
+          "start": 76.021,
+          "end": 76.254
         },
         {
           "wordIndex": 4392,
-          "start": 90.385,
-          "end": 90.481
+          "start": 76.288,
+          "end": 76.347
         },
         {
           "wordIndex": 4393,
-          "start": 90.881,
-          "end": 91.148
+          "start": 76.405,
+          "end": 76.521
         },
         {
           "wordIndex": 4394,
-          "start": 91.281,
-          "end": 91.561
+          "start": 76.59,
+          "end": 76.997
         },
         {
           "wordIndex": 4395,
-          "start": 91.617,
-          "end": 92.081
+          "start": 77.461,
+          "end": 78.1
         },
         {
           "wordIndex": 4396,
-          "start": 92.161,
-          "end": 92.321
+          "start": 78.146,
+          "end": 78.494
         },
         {
           "wordIndex": 4397,
-          "start": 92.401,
-          "end": 93.561
+          "start": 78.68,
+          "end": 79.191
         },
         {
           "wordIndex": 4398,
-          "start": 93.601,
-          "end": 93.721
+          "start": 79.214,
+          "end": 79.284
         },
         {
           "wordIndex": 4399,
-          "start": 93.761,
-          "end": 94.081
+          "start": 79.319,
+          "end": 79.992
         },
         {
           "wordIndex": 4400,
-          "start": 94.801,
-          "end": 95.153
+          "start": 80.398,
+          "end": 80.514
         },
         {
           "wordIndex": 4401,
-          "start": 95.209,
-          "end": 96.001
+          "start": 80.573,
+          "end": 81.153
         },
         {
           "wordIndex": 4402,
-          "start": 96.054,
-          "end": 96.161
+          "start": 81.199,
+          "end": 81.258
         },
         {
           "wordIndex": 4403,
-          "start": 96.177,
-          "end": 96.209
+          "start": 81.327,
+          "end": 81.652
         },
         {
           "wordIndex": 4404,
-          "start": 96.225,
-          "end": 96.689
+          "start": 81.873,
+          "end": 82.419
         },
         {
           "wordIndex": 4405,
-          "start": 96.737,
-          "end": 96.881
+          "start": 82.477,
+          "end": 82.709
         },
         {
           "wordIndex": 4406,
-          "start": 96.921,
-          "end": 97.032
+          "start": 82.755,
+          "end": 82.802
         },
         {
           "wordIndex": 4407,
-          "start": 97.103,
-          "end": 97.388
+          "start": 82.836,
+          "end": 82.953
         },
         {
           "wordIndex": 4408,
-          "start": 97.459,
-          "end": 97.701
+          "start": 82.987,
+          "end": 83.069
         },
         {
           "wordIndex": 4409,
-          "start": 97.801,
-          "end": 98.121
+          "start": 83.127,
+          "end": 83.324
         },
         {
           "wordIndex": 4410,
-          "start": 98.181,
-          "end": 98.481
+          "start": 83.371,
+          "end": 83.545
         },
         {
           "wordIndex": 4411,
-          "start": 98.561,
-          "end": 98.609
+          "start": 83.591,
+          "end": 83.614
         },
         {
           "wordIndex": 4412,
-          "start": 98.657,
-          "end": 98.961
+          "start": 83.742,
+          "end": 84.323
         },
         {
           "wordIndex": 4413,
-          "start": 99.021,
-          "end": 99.201
+          "start": 84.543,
+          "end": 84.706
         },
         {
           "wordIndex": 4414,
-          "start": 99.261,
-          "end": 99.868
+          "start": 84.764,
+          "end": 85.1
         },
         {
           "wordIndex": 4415,
-          "start": 99.974,
-          "end": 100.809
+          "start": 85.147,
+          "end": 85.321
         },
         {
           "wordIndex": 4416,
-          "start": 100.913,
-          "end": 101.281
+          "start": 85.367,
+          "end": 85.495
         },
         {
           "wordIndex": 4417,
-          "start": 101.361,
-          "end": 101.553
+          "start": 85.53,
+          "end": 85.634
         },
         {
           "wordIndex": 4418,
-          "start": 101.617,
-          "end": 101.734
+          "start": 85.704,
+          "end": 85.867
         },
         {
           "wordIndex": 4419,
-          "start": 101.748,
-          "end": 102.001
+          "start": 85.948,
+          "end": 86.656
         },
         {
           "wordIndex": 4420,
-          "start": 102.054,
-          "end": 102.353
+          "start": 87.202,
+          "end": 87.481
         },
         {
           "wordIndex": 4421,
-          "start": 102.449,
-          "end": 102.641
+          "start": 87.55,
+          "end": 87.678
         },
         {
           "wordIndex": 4422,
-          "start": 102.681,
-          "end": 103.441
+          "start": 87.748,
+          "end": 88.235
         },
         {
           "wordIndex": 4423,
-          "start": 103.681,
-          "end": 104.001
+          "start": 88.34,
+          "end": 88.456
         },
         {
           "wordIndex": 4424,
-          "start": 104.161,
-          "end": 104.417
+          "start": 88.502,
+          "end": 88.677
         },
         {
           "wordIndex": 4425,
-          "start": 104.481,
-          "end": 104.801
+          "start": 88.735,
+          "end": 88.816
         },
         {
           "wordIndex": 4426,
-          "start": 105.041,
-          "end": 105.281
+          "start": 88.862,
+          "end": 89.327
         },
         {
           "wordIndex": 4427,
-          "start": 105.601,
-          "end": 105.841
+          "start": 89.582,
+          "end": 89.733
         },
         {
           "wordIndex": 4428,
-          "start": 105.921,
-          "end": 106.081
+          "start": 89.814,
+          "end": 90.081
         },
         {
           "wordIndex": 4429,
-          "start": 106.201,
-          "end": 107.281
+          "start": 90.267,
+          "end": 90.592
         },
         {
           "wordIndex": 4430,
-          "start": 107.308,
-          "end": 107.414
+          "start": 90.674,
+          "end": 90.941
         },
         {
           "wordIndex": 4431,
-          "start": 107.441,
-          "end": 107.601
+          "start": 90.975,
+          "end": 91.126
         },
         {
           "wordIndex": 4432,
-          "start": 107.641,
-          "end": 107.748
+          "start": 91.173,
+          "end": 91.254
         },
         {
           "wordIndex": 4433,
-          "start": 107.814,
-          "end": 108.161
+          "start": 91.3,
+          "end": 91.835
         },
         {
           "wordIndex": 4434,
-          "start": 108.161,
-          "end": 108.161
+          "start": 92.183,
+          "end": 92.311
         },
         {
           "wordIndex": 4435,
-          "start": 108.161,
-          "end": 108.161
+          "start": 92.357,
+          "end": 92.496
         },
         {
           "wordIndex": 4436,
-          "start": 108.161,
-          "end": 108.161
+          "start": 92.531,
+          "end": 92.682
         },
         {
           "wordIndex": 4437,
-          "start": 108.161,
-          "end": 108.161
+          "start": 92.763,
+          "end": 93.03
         },
         {
           "wordIndex": 4438,
-          "start": 108.161,
-          "end": 108.161
+          "start": 93.216,
+          "end": 93.39
         }
       ]
     }
